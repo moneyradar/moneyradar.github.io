@@ -7,7 +7,7 @@ tags: ["테슬라","코스닥","나스닥","시황","국장체크"]
 youtube: "KL6ShRs1PTs"
 image:
   src: "/img/20260824-tesla-kosdaq-market-checkpoints/hero.png"
-  alt: "테슬라 급등 앞 코스닥 저울"
+  alt: "테슬라 불꽃 앞 코스닥 저울질"
   credit:
     name: "AI 만평"
 ---

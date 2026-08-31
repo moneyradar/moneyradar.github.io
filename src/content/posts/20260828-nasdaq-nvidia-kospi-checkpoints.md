@@ -7,7 +7,7 @@ tags: ["나스닥","엔비디아","코스피","환율","PCE"]
 youtube: "ALWDUHOsEAI"
 image:
   src: "/img/20260828-nasdaq-nvidia-kospi-checkpoints/hero.png"
-  alt: "엔비디아 훈풍과 금리 경계"
+  alt: "엔비디아 훈풍과 금리 부담"
   credit:
     name: "AI 만평"
 ---

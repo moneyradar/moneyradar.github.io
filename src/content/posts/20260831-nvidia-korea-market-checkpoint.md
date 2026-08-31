@@ -7,7 +7,7 @@ tags: ["시황","엔비디아","나스닥","삼성전자","SK하이닉스"]
 youtube: "OWTMwk2a6fU"
 image:
   src: "/img/20260831-nvidia-korea-market-checkpoint/hero.png"
-  alt: "엔비디아 급락에 흔들리는 반도체"
+  alt: "엔비디아 급락에 반도체 수급 시험"
   credit:
     name: "AI 만평"
 ---

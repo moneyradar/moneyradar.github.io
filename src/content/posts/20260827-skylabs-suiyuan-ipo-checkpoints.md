@@ -6,7 +6,7 @@ category: 공모주
 tags: ["스카이랩스","쑤이위안","공모주","청약경쟁률","특징주"]
 image:
   src: "/img/20260827-skylabs-suiyuan-ipo-checkpoints/hero.png"
-  alt: "저울 위 공모주와 물음표 칩"
+  alt: "안갯속 공모주 조건 저울질"
   credit:
     name: "AI 만평"
 ---

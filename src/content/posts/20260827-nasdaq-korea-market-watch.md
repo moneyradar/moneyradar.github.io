@@ -7,7 +7,7 @@ tags: ["나스닥","코스피","원달러환율","엔비디아","팔란티어"]
 youtube: "V57oWaT1Rho"
 image:
   src: "/img/20260827-nasdaq-korea-market-watch/hero.png"
-  alt: "환율과 AI주 눈치 보는 장세"
+  alt: "환율과 AI주 눈치보는 증시"
   credit:
     name: "AI 만평"
 ---

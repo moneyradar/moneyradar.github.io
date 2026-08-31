@@ -7,7 +7,7 @@ tags: ["삼성전자","주주환원","자사주소각","코스피","엔비디아
 youtube: "Z9k9TSFEsqM"
 image:
   src: "/img/20260824-samsung-electronics-shareholder-return-october-disclosure/hero.png"
-  alt: "110조 환원 발표에도 주가 급락"
+  alt: "110조 환원에도 급락한 증시 풍자"
   credit:
     name: "AI 만평"
 ---

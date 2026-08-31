@@ -7,7 +7,7 @@ tags: ["메타","빅테크","소셜미디어규제","NAVER","카카오"]
 youtube: "ep_gDRik8iI"
 image:
   src: "/img/20260826-meta-lawsuit-settlement/hero.png"
-  alt: "소송 이슈에도 오른 메타 풍자"
+  alt: "소송추 묶인 메타 풍선 상승"
   credit:
     name: "AI 만평"
 ---

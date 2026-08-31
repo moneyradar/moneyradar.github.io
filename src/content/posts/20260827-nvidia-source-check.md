@@ -7,7 +7,7 @@ tags: ["엔비디아","NVDA","특징주","미국주식","원문확인"]
 youtube: "yyEGd_VMAqI"
 image:
   src: "/img/20260827-nvidia-source-check/hero.png"
-  alt: "원문 없는 하락률 앞 투자자들"
+  alt: "원문 확인 기다리는 엔비디아 하락"
   credit:
     name: "AI 만평"
 ---

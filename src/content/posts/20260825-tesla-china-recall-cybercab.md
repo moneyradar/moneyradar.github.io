@@ -7,7 +7,7 @@ tags: ["테슬라","중국리콜","사이버캡","로보택시","특징주"]
 youtube: "T6X121aXGJE"
 image:
   src: "/img/20260825-tesla-china-recall-cybercab/hero.png"
-  alt: "리콜과 사이버캡 사이 흔들리는 테슬라"
+  alt: "리콜 구름 앞 테슬라 투자심리"
   credit:
     name: "AI 만평"
 ---

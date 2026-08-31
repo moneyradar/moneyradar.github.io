@@ -7,7 +7,7 @@ tags: ["스카이랩스","공모주","청약경쟁률","상장일","수요예측
 youtube: "FqS7QM-4AAE"
 image:
   src: "/img/20260829-skylabs-ipo-listing-competition/hero.png"
-  alt: "낮은 경쟁률 앞둔 스카이랩스 상장"
+  alt: "낮은 청약률 속 상장 대기"
   credit:
     name: "AI 만평"
 ---

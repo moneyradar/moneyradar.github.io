@@ -7,7 +7,7 @@ tags: ["삼성전자","나스닥","반도체","코스피","시황"]
 youtube: "1huUVfYutW0"
 image:
   src: "/img/20260825-samsung-electronics-nasdaq-semiconductor/hero.png"
-  alt: "삼성전자 급락과 반도체 부담"
+  alt: "삼성전자 급락 소화 여부를 보는 장"
   credit:
     name: "AI 만평"
 ---

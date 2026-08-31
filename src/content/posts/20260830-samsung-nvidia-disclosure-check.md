@@ -7,7 +7,7 @@ tags: ["삼성전자","엔비디아","테슬라","메타","스카이랩스"]
 youtube: "GCoFEy4rTcI"
 image:
   src: "/img/20260830-samsung-nvidia-disclosure-check/hero.png"
-  alt: "공시 원문을 확인하는 투자자들"
+  alt: "공시 숫자에 갈린 주간 증시"
   credit:
     name: "AI 만평"
 ---

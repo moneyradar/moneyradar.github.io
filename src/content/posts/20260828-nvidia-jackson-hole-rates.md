@@ -7,7 +7,7 @@ tags: ["엔비디아","AI반도체","잭슨홀","기술주","금리"]
 youtube: "Q4XJkSczEvk"
 image:
   src: "/img/20260828-nvidia-jackson-hole-rates/hero.png"
-  alt: "칩 로켓과 금리 심판의 줄다리기"
+  alt: "엔비디아 랠리와 금리 변수 풍자"
   credit:
     name: "AI 만평"
 ---

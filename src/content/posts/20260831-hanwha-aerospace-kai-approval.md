@@ -7,7 +7,7 @@ tags: ["한화에어로스페이스","KAI","공정거래위원회","방산","특
 youtube: "c5RWZjS-Nw0"
 image:
   src: "/img/20260831-hanwha-aerospace-kai-approval/hero.png"
-  alt: "승인 속 하락한 한화에어로 풍자"
+  alt: "승인에도 주가가 떨어지는 방산주"
   credit:
     name: "AI 만평"
 ---

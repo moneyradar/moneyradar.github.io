@@ -7,7 +7,7 @@ tags: ["국장시황","나스닥","반도체","엔비디아","AMD"]
 youtube: "C1mHyZgEA0E"
 image:
   src: "/img/20260826-market-semiconductor-spread/hero.png"
-  alt: "나스닥 훈풍 기다리는 국장"
+  alt: "나스닥 온기 기다리는 국장"
   credit:
     name: "AI 만평"
 ---
