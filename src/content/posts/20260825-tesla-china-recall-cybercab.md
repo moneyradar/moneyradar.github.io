@@ -6,11 +6,10 @@ category: 특징주
 tags: ["테슬라","중국리콜","사이버캡","로보택시","특징주"]
 youtube: "T6X121aXGJE"
 image:
-  src: "/img/20260825-tesla-china-recall-cybercab/hero.jpg"
-  alt: "전기차 리콜과 로보택시 이슈"
+  src: "/img/20260825-tesla-china-recall-cybercab/hero.png"
+  alt: "리콜과 사이버캡 사이 흔들리는 테슬라"
   credit:
-    name: "Action Construction  Equipment Ltd. - ACE"
-    url: "https://www.pexels.com/photo/10-ton-ace-diesel-forklift-in-industrial-yard-29491416/"
+    name: "AI 만평"
 ---
 
 전일 미국장에서 테슬라는 종가 기준 3.83% 하락했다. 하락 당일에는 중국 대규모 리콜과 브랜드 신뢰 훼손 우려가 함께 보도됐고, 별도로 로보택시 ‘사이버캡’ 양산형 모델 공개 일정도 전해졌다. 한쪽은 품질·신뢰 리스크이고, 다른 한쪽은 미래 사업 이벤트라는 점에서 시장의 판단 축이 엇갈린다. 지금 필요한 것은 주가 움직임을 단정하는 일이 아니라, 리콜의 실제 범위와 회사 측 대응이 얼마나 구체적으로 확인되는지 점검하는 일이다.

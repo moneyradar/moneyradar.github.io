@@ -6,11 +6,10 @@ category: 특징주
 tags: ["메타","빅테크","소셜미디어규제","NAVER","카카오"]
 youtube: "ep_gDRik8iI"
 image:
-  src: "/img/20260826-meta-lawsuit-settlement/hero.jpg"
-  alt: "소셜미디어 규제와 메타 주가"
+  src: "/img/20260826-meta-lawsuit-settlement/hero.png"
+  alt: "소송 이슈에도 오른 메타 풍자"
   credit:
-    name: "Sanket  Mishra"
-    url: "https://www.pexels.com/photo/social-media-apps-on-smartphone-16229745/"
+    name: "AI 만평"
 ---
 
 전일 미국장에서 메타는 소송·규제 이슈가 부각된 가운데서도 종가 기준 상승했다. 시장 전체가 위험자산 쪽으로 기울었지만, 모든 기술주가 함께 오른 장은 아니었다는 점이 중요하다. 특히 알파벳·아마존·애플이 약세를 보인 반면 메타는 빅테크 안에서 상대적으로 강했다. 이번 사안은 단순한 하루 등락보다, 실적 기대에 따른 선별 매수와 소셜미디어 규제 리스크 중 어느 쪽이 더 크게 반영되는지를 가르는 문제다.

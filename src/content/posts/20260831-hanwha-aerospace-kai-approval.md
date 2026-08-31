@@ -6,11 +6,10 @@ category: 특징주
 tags: ["한화에어로스페이스","KAI","공정거래위원회","방산","특징주"]
 youtube: "c5RWZjS-Nw0"
 image:
-  src: "/img/20260831-hanwha-aerospace-kai-approval/hero.jpg"
-  alt: "KAI 지분 승인과 방산주 흐름"
+  src: "/img/20260831-hanwha-aerospace-kai-approval/hero.png"
+  alt: "승인 속 하락한 한화에어로 풍자"
   credit:
-    name: "Max Chen"
-    url: "https://www.pexels.com/photo/a-remote-controlled-aircraft-upside-down-11917459/"
+    name: "AI 만평"
 ---
 
 한화에어로스페이스가 오늘 한국장에서 수집 시점 종가 기준 4.75% 하락했다. 같은 날 공정거래위원회가 한화에어로스페이스 외 2개사의 한국항공우주산업, KAI 주식 취득 건을 승인 통지했다는 보도가 나왔다. 이 이슈에서 중요한 지점은 승인 자체보다 공정위가 “현 지분율로는 실질적인 지배력 확보가 아니다”라고 봤다는 점이다. 따라서 주가 등락을 단순히 승인 뉴스로만 연결하기보다, 지분 취득의 성격과 향후 추가 심사 조건을 나눠 봐야 한다.

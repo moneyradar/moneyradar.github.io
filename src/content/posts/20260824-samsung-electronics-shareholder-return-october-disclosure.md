@@ -6,11 +6,10 @@ category: 특징주
 tags: ["삼성전자","주주환원","자사주소각","코스피","엔비디아실적"]
 youtube: "Z9k9TSFEsqM"
 image:
-  src: "/img/20260824-samsung-electronics-shareholder-return-october-disclosure/hero.jpg"
-  alt: "주주환원 발표 후 급락한 반도체주"
+  src: "/img/20260824-samsung-electronics-shareholder-return-october-disclosure/hero.png"
+  alt: "110조 환원 발표에도 주가 급락"
   credit:
-    name: "RDNE Stock project"
-    url: "https://www.pexels.com/photo/close-up-shot-of-a-graph-7947742/"
+    name: "AI 만평"
 ---
 
 삼성전자가 대규모 주주환원 재원을 언급했지만 시장 반응은 정반대였다. 24일 한국장 수집 시점 기준 주가는 -8.70%까지 밀렸고, 우선주와 주요 삼성그룹주도 함께 하락했다. 숫자만 보면 사상급 규모의 환원 발표였지만, 투자자들이 확인하고 싶어 한 부분은 총액보다 자사주 매입·소각의 구체성이었다. 이번 사안은 삼성전자 개별 종목을 넘어 코스피와 반도체 대형주 수급까지 흔든 사건으로 봐야 한다.
