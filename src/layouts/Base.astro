@@ -9,6 +9,11 @@ interface Props {
 const { title, description, article, jsonLd = [], ogImage: ogOverride } = Astro.props;
 const canonical = new URL(Astro.url.pathname, Astro.site);
 const ogImage = new URL(ogOverride ?? '/og-default.png', Astro.site);
+const pathname = Astro.url.pathname;
+const postMatch = pathname.match(/^\/posts\/([^/]+)\/?/);
+const gaPageType = postMatch ? 'post' : pathname === '/' ? 'home' : pathname.startsWith('/about') ? 'about' : 'other';
+const gaContentId = postMatch ? postMatch[1] : null;
+const gaCategory = article?.category ?? null;
 ---
 <!doctype html>
 <html lang="ko">
@@ -42,6 +47,50 @@ const ogImage = new URL(ogOverride ?? '/og-default.png', Astro.site);
   {jsonLd.map((ld) => (
     <script type="application/ld+json" set:html={JSON.stringify(ld)} />
   ))}
+  <!-- Google tag (gtag.js) -->
+  <script is:inline async src="https://www.googletagmanager.com/gtag/js?id=G-L195MZVQ0N"></script>
+  <script is:inline define:vars={{ gaPageType, gaContentId, gaCategory }}>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    // 공통 파라미터: 페이지 성격·콘텐츠 ID·카테고리 (모든 page_view·이벤트에 실림)
+    var common = { page_type: gaPageType };
+    if (gaContentId) common.content_id = gaContentId;
+    if (gaCategory) common.content_category = gaCategory;
+    gtag('config', 'G-L195MZVQ0N', common);
+
+    document.addEventListener('DOMContentLoaded', function () {
+      // 아웃바운드 클릭 — 채널 전환(유튜브·인스타)·출처 클릭 측정
+      document.addEventListener('click', function (e) {
+        var a = e.target && e.target.closest ? e.target.closest('a[href]') : null;
+        if (!a) return;
+        var url;
+        try { url = new URL(a.href); } catch (_) { return; }
+        if (url.host === location.host) return;
+        var channel = 'other';
+        if (/youtube\.com|youtu\.be/.test(url.host)) channel = 'youtube';
+        else if (/instagram\.com/.test(url.host)) channel = 'instagram';
+        else if (/pexels\.com/.test(url.host)) channel = 'pexels';
+        else if (/news\.google\.com|naver\.com|daum\.net/.test(url.host)) channel = 'source';
+        gtag('event', 'outbound_click', Object.assign({ channel: channel, link_url: url.href }, common));
+      });
+
+      // 글 읽기 완주 — 포스트 하단 고지 영역이 보이면 1회 발송
+      if (gaContentId && 'IntersectionObserver' in window) {
+        var done = false;
+        var end = document.querySelector('article .disclaimer');
+        if (end) {
+          new IntersectionObserver(function (entries, obs) {
+            if (done || !entries.some(function (x) { return x.isIntersecting; })) return;
+            done = true;
+            gtag('event', 'read_complete', common);
+            obs.disconnect();
+          }, { threshold: 0.5 }).observe(end);
+        }
+      }
+    });
+  </script>
   <style is:global>
     :root {
       --bg: #FFFFFF;
