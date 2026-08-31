@@ -19,7 +19,8 @@ const ogImage = new URL(ogOverride ?? '/og-default.png', Astro.site);
   <meta name="description" content={description} />
   <link rel="canonical" href={canonical} />
   <link rel="alternate" type="application/rss+xml" title="머니레이더" href="/rss.xml" />
-  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='46' fill='%230E141C'/><circle cx='50' cy='50' r='30' fill='none' stroke='%23C9A227' stroke-width='6'/><circle cx='50' cy='50' r='8' fill='%23C9A227'/></svg>" />
+  <link rel="icon" type="image/png" href="/favicon.png" />
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
   <meta property="og:site_name" content="머니레이더" />
   <meta property="og:locale" content="ko_KR" />
   <meta property="og:title" content={title} />
@@ -86,13 +87,7 @@ const ogImage = new URL(ogOverride ?? '/og-default.png', Astro.site);
       max-width: 720px; margin: 0 auto; padding: 18px 20px;
       display: flex; align-items: center; gap: 10px;
     }
-    .mark {
-      width: 22px; height: 22px; border-radius: 50%;
-      background: radial-gradient(circle at center, var(--gold) 0 4px, transparent 4.5px),
-                  radial-gradient(circle at center, transparent 0 7px, var(--gold) 7.5px 9.5px, transparent 10px);
-      background-color: #0E141C;
-      flex: none;
-    }
+    .mark { width: 26px; height: 26px; flex: none; }
     header.site a.brand { font-weight: 800; letter-spacing: -0.01em; text-decoration: none; font-size: 1.05rem; }
     header.site nav { margin-left: auto; display: flex; gap: 18px; font-size: 0.88rem; }
     header.site nav a { color: var(--ink-soft); text-decoration: none; }
@@ -156,7 +151,7 @@ const ogImage = new URL(ogOverride ?? '/og-default.png', Astro.site);
 <body>
   <header class="site">
     <div class="in">
-      <span class="mark" aria-hidden="true"></span>
+      <img class="mark" src="/favicon.png" alt="머니레이더 로고" width="26" height="26" />
       <a class="brand" href="/">머니레이더</a>
       <nav>
         <a href="/about/">소개</a>
