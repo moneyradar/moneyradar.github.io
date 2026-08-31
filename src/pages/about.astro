@@ -1,0 +1,50 @@
+---
+import Base from '../layouts/Base.astro';
+const jsonLd = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'AboutPage',
+    name: '머니레이더 소개',
+    url: 'https://moneyradar.github.io/about/',
+    inLanguage: 'ko',
+    mainEntity: { '@id': 'https://moneyradar.github.io/#org' },
+  },
+];
+---
+<Base
+  title="소개 — 머니레이더"
+  description="머니레이더는 시장의 기회를 스캔하는 경제 채널입니다. 특징주 딥다이브, 공모주 일정, 시황 브리핑을 유튜브와 블로그에 기록합니다."
+  jsonLd={jsonLd}
+>
+  <article>
+    <h1>머니레이더</h1>
+    <p><strong>시장의 기회를 스캔합니다.</strong></p>
+    <p>
+      머니레이더는 돈이 몰리는 곳, 열리는 기회, 마감이 임박한 일정을 매일 추적하는
+      경제 채널입니다. 이 블로그는 유튜브 채널에서 다룬 내용을 글로 완결해 기록하는
+      아카이브입니다.
+    </p>
+    <h2>다루는 것</h2>
+    <ul>
+      <li><strong>특징주 딥다이브</strong> — 그날 시장에서 가장 큰 이슈를 만든 종목 하나를 골라, 사건·근거·반증 신호·다음 체크포인트로 정리합니다.</li>
+      <li><strong>공모주</strong> — 청약 일정, 경쟁률, 상장 결과를 추적합니다.</li>
+      <li><strong>시황</strong> — 매일 아침 지수·환율·핵심 이슈를 브리핑합니다.</li>
+    </ul>
+    <h2>원칙</h2>
+    <ul>
+      <li>사실은 복수 언론 보도와 시장 데이터에서만 가져오고, 출처를 남깁니다.</li>
+      <li>판단이 기울 때는 그 근거 두 가지와 반대 신호 한 가지를 함께 적습니다.</li>
+      <li>매수·매도 추천, 목표가 제시는 하지 않습니다.</li>
+    </ul>
+    <h2>채널</h2>
+    <ul>
+      <li>유튜브: <a href="https://www.youtube.com/@kr.moneyradar" rel="noopener">@kr.moneyradar</a></li>
+      <li>인스타그램: <a href="https://www.instagram.com/kr.moneyradar" rel="noopener">@kr.moneyradar</a></li>
+    </ul>
+    <div class="disclaimer">
+      이 블로그의 콘텐츠는 AI 파이프라인의 도움을 받아 작성되고 운영자가 관리합니다.
+      모든 사실관계는 공개 보도를 교차 확인하지만, 오류가 있을 수 있습니다.
+      투자 판단과 책임은 투자자 본인에게 있습니다.
+    </div>
+  </article>
+</Base>

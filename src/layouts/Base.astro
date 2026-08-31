@@ -1,0 +1,175 @@
+---
+interface Props {
+  title: string;
+  description: string;
+  article?: { date: Date; category: string; tags?: string[] };
+  jsonLd?: object[];
+  ogImage?: string;
+}
+const { title, description, article, jsonLd = [], ogImage: ogOverride } = Astro.props;
+const canonical = new URL(Astro.url.pathname, Astro.site);
+const ogImage = new URL(ogOverride ?? '/og-default.png', Astro.site);
+---
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>{title}</title>
+  <meta name="description" content={description} />
+  <link rel="canonical" href={canonical} />
+  <link rel="alternate" type="application/rss+xml" title="머니레이더" href="/rss.xml" />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='46' fill='%230E141C'/><circle cx='50' cy='50' r='30' fill='none' stroke='%23C9A227' stroke-width='6'/><circle cx='50' cy='50' r='8' fill='%23C9A227'/></svg>" />
+  <meta property="og:site_name" content="머니레이더" />
+  <meta property="og:locale" content="ko_KR" />
+  <meta property="og:title" content={title} />
+  <meta property="og:description" content={description} />
+  <meta property="og:type" content={article ? 'article' : 'website'} />
+  <meta property="og:url" content={canonical} />
+  <meta property="og:image" content={ogImage} />
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="630" />
+  {article && <meta property="article:published_time" content={article.date.toISOString()} />}
+  {article && <meta property="article:section" content={article.category} />}
+  {article && (article.tags ?? []).map((t) => <meta property="article:tag" content={t} />)}
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content={title} />
+  <meta name="twitter:description" content={description} />
+  <meta name="twitter:image" content={ogImage} />
+  {jsonLd.map((ld) => (
+    <script type="application/ld+json" set:html={JSON.stringify(ld)} />
+  ))}
+  <style is:global>
+    :root {
+      --bg: #FFFFFF;
+      --bg-soft: #F5F6F8;
+      --ink: #1A2333;
+      --ink-soft: #5A6474;
+      --line: #E3E6EB;
+      --accent: #14304A;
+      --gold: #B8901F;
+      --up: #C43C3C;
+      --down: #2A62B8;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg: #0E141C;
+        --bg-soft: #161E29;
+        --ink: #E6EAF0;
+        --ink-soft: #97A2B0;
+        --line: #263140;
+        --accent: #9FBEDC;
+        --gold: #C9A227;
+        --up: #E06666;
+        --down: #6E9FE8;
+      }
+    }
+    * { box-sizing: border-box; }
+    html { -webkit-text-size-adjust: 100%; }
+    body {
+      margin: 0;
+      background: var(--bg);
+      color: var(--ink);
+      font-family: "Pretendard Variable", Pretendard, "Apple SD Gothic Neo", "Noto Sans KR", system-ui, sans-serif;
+      line-height: 1.75;
+      font-size: 16.5px;
+    }
+    a { color: inherit; }
+    .sr-only {
+      position: absolute; width: 1px; height: 1px; margin: -1px;
+      clip-path: inset(50%); overflow: hidden; white-space: nowrap;
+    }
+    header.site {
+      border-bottom: 1px solid var(--line);
+    }
+    header.site .in {
+      max-width: 720px; margin: 0 auto; padding: 18px 20px;
+      display: flex; align-items: center; gap: 10px;
+    }
+    .mark {
+      width: 22px; height: 22px; border-radius: 50%;
+      background: radial-gradient(circle at center, var(--gold) 0 4px, transparent 4.5px),
+                  radial-gradient(circle at center, transparent 0 7px, var(--gold) 7.5px 9.5px, transparent 10px);
+      background-color: #0E141C;
+      flex: none;
+    }
+    header.site a.brand { font-weight: 800; letter-spacing: -0.01em; text-decoration: none; font-size: 1.05rem; }
+    header.site nav { margin-left: auto; display: flex; gap: 18px; font-size: 0.88rem; }
+    header.site nav a { color: var(--ink-soft); text-decoration: none; }
+    header.site nav a:hover { color: var(--ink); }
+    main { max-width: 720px; margin: 0 auto; padding: 32px 20px 64px; }
+    footer.site {
+      border-top: 1px solid var(--line);
+      color: var(--ink-soft); font-size: 0.82rem;
+    }
+    footer.site .in { max-width: 720px; margin: 0 auto; padding: 24px 20px; }
+    .chip {
+      display: inline-block; font-size: 0.75rem; font-weight: 700;
+      padding: 2px 9px; border-radius: 20px;
+      background: var(--bg-soft); color: var(--accent);
+      border: 1px solid var(--line);
+    }
+    h1, h2, h3 { line-height: 1.35; letter-spacing: -0.015em; text-wrap: balance; }
+    .hero { margin: 0 0 26px; }
+    .hero h1 { font-size: 1.25rem; margin: 0; }
+    .hero p { margin: 4px 0 0; color: var(--ink-soft); font-size: 0.9rem; }
+    article h1 { font-size: 1.65rem; margin: 10px 0 6px; }
+    article h2 { font-size: 1.18rem; margin-top: 2.2em; border-bottom: 1px solid var(--line); padding-bottom: 8px; }
+    article .meta { color: var(--ink-soft); font-size: 0.86rem; }
+    article img { max-width: 100%; border-radius: 10px; }
+    article .hero-img { width: 100%; aspect-ratio: 16/9; object-fit: cover; margin-top: 14px; }
+    article table {
+      width: 100%; border-collapse: collapse; font-size: 0.92rem;
+      font-variant-numeric: tabular-nums; margin: 1.2em 0;
+    }
+    article table th, article table td {
+      text-align: left; padding: 8px 10px; border-bottom: 1px solid var(--line);
+    }
+    article table th { color: var(--ink-soft); font-weight: 600; font-size: 0.82rem; }
+    article .tablewrap { overflow-x: auto; }
+    article blockquote {
+      margin: 1.4em 0; padding: 14px 18px;
+      border-left: 3px solid var(--gold);
+      background: var(--bg-soft);
+      border-radius: 0 8px 8px 0;
+    }
+    article blockquote p { margin: 0.3em 0; }
+    article hr { border: none; border-top: 1px solid var(--line); margin: 2.4em 0; }
+    article .yt {
+      position: relative; aspect-ratio: 9/16; max-width: 300px;
+      margin: 1.5em auto; border-radius: 12px; overflow: hidden;
+      background: var(--bg-soft);
+    }
+    article .yt iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; }
+    .disclaimer {
+      font-size: 0.8rem; color: var(--ink-soft);
+      border: 1px solid var(--line); border-radius: 8px; padding: 12px 16px; margin-top: 2.5em;
+    }
+    ul.postlist { list-style: none; padding: 0; margin: 0; }
+    ul.postlist li { padding: 18px 0; border-bottom: 1px solid var(--line); }
+    ul.postlist .date { color: var(--ink-soft); font-size: 0.82rem; font-variant-numeric: tabular-nums; margin-right: 10px; }
+    ul.postlist a.t { font-weight: 700; text-decoration: none; font-size: 1.02rem; display: block; margin-top: 4px; }
+    ul.postlist a.t:hover { color: var(--gold); }
+    ul.postlist p.d { margin: 4px 0 0; color: var(--ink-soft); font-size: 0.88rem; }
+  </style>
+</head>
+<body>
+  <header class="site">
+    <div class="in">
+      <span class="mark" aria-hidden="true"></span>
+      <a class="brand" href="/">머니레이더</a>
+      <nav>
+        <a href="/about/">소개</a>
+        <a href="https://www.youtube.com/@kr.moneyradar" rel="noopener">유튜브</a>
+      </nav>
+    </div>
+  </header>
+  <main><slot /></main>
+  <footer class="site">
+    <div class="in">
+      머니레이더 — 시장의 기회를 스캔합니다. 본 사이트의 모든 내용은 정보 제공 목적이며,
+      투자 판단과 책임은 투자자 본인에게 있습니다.
+    </div>
+  </footer>
+</body>
+</html>

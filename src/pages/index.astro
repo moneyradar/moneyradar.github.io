@@ -1,0 +1,66 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../layouts/Base.astro';
+
+const posts = (await getCollection('posts')).sort(
+  (a, b) => b.data.date.valueOf() - a.data.date.valueOf()
+);
+const fmt = (d: Date) =>
+  d.toLocaleDateString('ko-KR', { year: 'numeric', month: '2-digit', day: '2-digit', timeZone: 'Asia/Seoul' });
+
+const jsonLd = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'WebSite',
+    name: '머니레이더',
+    url: 'https://moneyradar.github.io/',
+    description: '시장의 기회를 스캔합니다 — 특징주 딥다이브 · 공모주 · 시황 브리핑',
+    inLanguage: 'ko',
+    publisher: { '@id': 'https://moneyradar.github.io/#org' },
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Organization',
+    '@id': 'https://moneyradar.github.io/#org',
+    name: '머니레이더',
+    url: 'https://moneyradar.github.io/',
+    sameAs: [
+      'https://www.youtube.com/@kr.moneyradar',
+      'https://www.instagram.com/kr.moneyradar',
+    ],
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Blog',
+    name: '머니레이더',
+    url: 'https://moneyradar.github.io/',
+    inLanguage: 'ko',
+    blogPost: posts.slice(0, 10).map((p) => ({
+      '@type': 'BlogPosting',
+      headline: p.data.title,
+      datePublished: p.data.date.toISOString(),
+      url: `https://moneyradar.github.io/posts/${p.id}/`,
+    })),
+  },
+];
+---
+<Base
+  title="머니레이더 — 특징주 분석 · 공모주 · 시황"
+  description="시장의 기회를 스캔합니다. 특징주 딥다이브, 공모주 일정과 결산, 시황 브리핑을 매일 기록합니다."
+  jsonLd={jsonLd}
+>
+  <div class="hero">
+    <h1>머니레이더 — 시장의 기회를 스캔합니다</h1>
+    <p>특징주 딥다이브 · 공모주 · 시황 브리핑</p>
+  </div>
+  <ul class="postlist">
+    {posts.map((p) => (
+      <li>
+        <span class="date">{fmt(p.data.date)}</span>
+        <span class="chip">{p.data.category}</span>
+        <a class="t" href={`/posts/${p.id}/`}>{p.data.title}</a>
+        <p class="d">{p.data.description}</p>
+      </li>
+    ))}
+  </ul>
+</Base>
