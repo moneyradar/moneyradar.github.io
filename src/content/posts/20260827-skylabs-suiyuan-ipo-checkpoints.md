@@ -9,7 +9,7 @@ image:
   alt: "공모주 청약 일정과 시장 시세 화면"
   credit:
     name: "Alex Luna"
-    url: "https://www.pexels.com/photo/stock-exchange-board-16594963/"
+    url: "https://www.pexels.com/photo/stock-market-chart-displaying-bearish-trend-35118208/"
 ---
 
 8월 말 공모주 시장의 관심은 이미 청약을 마친 스카이랩스와 9월 초 청약이 예정된 쑤이위안으로 나뉩니다. 한쪽은 확정 공모가와 청약 경쟁률이 드러났고, 다른 한쪽은 조달 추진 보도와 일정만 확인된 상태입니다. 같은 주에 삼성전자, 테슬라, 메타, 엔비디아 등 주요 특징주의 후속 흐름도 함께 점검할 필요가 있습니다. 이번 글은 확정된 일정과 숫자를 기준으로 공모주 판단의 축을 정리합니다.
