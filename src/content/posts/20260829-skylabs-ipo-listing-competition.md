@@ -6,8 +6,11 @@ category: 공모주
 tags: ["스카이랩스","공모주","청약경쟁률","상장일","수요예측"]
 youtube: "FqS7QM-4AAE"
 image:
-  src: "/img/20260829-skylabs-ipo-listing-competition/hero.png"
+  src: "/img/20260829-skylabs-ipo-listing-competition/hero.jpg"
   alt: "스카이랩스 상장 앞둔 공모주 시장"
+  credit:
+    name: "Rafael Minguet Delgado"
+    url: "https://www.pexels.com/photo/stock-market-data-visualization-display-39277916/"
 ---
 
 스카이랩스가 8월 27일 청약을 마치고 9월 4일 상장을 앞두고 있습니다. 이번 건이 중요한 이유는 일정 자체보다 청약 경쟁률이 매우 낮게 보도됐다는 점입니다. 기관 수요예측과 일반 청약 수치가 모두 강한 흥행을 말하기 어렵기 때문에, 상장 전 기대감보다 확인해야 할 변수가 먼저 보입니다. 이번 글은 스카이랩스 일정을 중심으로, 함께 점검된 주요 종목 흐름까지 판단 재료로 정리합니다.

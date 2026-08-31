@@ -61,7 +61,14 @@ const jsonLd = [
     <h1>{post.data.title}</h1>
     <p class="meta">{fmt} · 머니레이더</p>
     {post.data.image && (
-      <img class="hero-img" src={post.data.image.src} alt={post.data.image.alt} loading="eager" />
+      <figure class="hero-fig">
+        <img class="hero-img" src={post.data.image.src} alt={post.data.image.alt} loading="eager" />
+        {post.data.image.credit && (
+          <figcaption>
+            사진: <a href={post.data.image.credit.url} rel="noopener nofollow">{post.data.image.credit.name}</a> / Pexels
+          </figcaption>
+        )}
+      </figure>
     )}
     <Content />
     {post.data.youtube && (

@@ -6,8 +6,11 @@ category: 특징주
 tags: ["엔비디아","AI반도체","잭슨홀","기술주","금리"]
 youtube: "Q4XJkSczEvk"
 image:
-  src: "/img/20260828-nvidia-jackson-hole-rates/hero.png"
+  src: "/img/20260828-nvidia-jackson-hole-rates/hero.jpg"
   alt: "엔비디아 급등과 금리 변수"
+  credit:
+    name: "panumas nikhomkhai"
+    url: "https://www.pexels.com/photo/box-server-illuminated-on-blue-17489160/"
 ---
 
 엔비디아가 실적 발표 직후 강하게 반등하며 미국 기술주 흐름을 다시 끌어올렸다. 매출과 주당순이익이 모두 시장 전망을 웃돌았고, 회사가 처음으로 1년 시계의 성장 전망을 제시했다는 점이 투자심리를 자극했다. 다만 이번 움직임은 실적만으로 끝나지 않는다. 오늘 밤 예정된 잭슨홀 미팅 이후 금리 신호가 기술주 랠리의 지속성을 가르는 판단 축으로 남아 있다.

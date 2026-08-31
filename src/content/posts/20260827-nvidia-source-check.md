@@ -6,8 +6,11 @@ category: 특징주
 tags: ["엔비디아","NVDA","특징주","미국주식","원문확인"]
 youtube: "yyEGd_VMAqI"
 image:
-  src: "/img/20260827-nvidia-source-check/hero.png"
+  src: "/img/20260827-nvidia-source-check/hero.jpg"
   alt: "엔비디아 하락과 원문 확인"
+  credit:
+    name: "Armando Are"
+    url: "https://www.pexels.com/photo/close-up-shot-of-an-electronic-chip-6385891/"
 ---
 
 엔비디아가 전일 미국장 종가 기준 -1.59%를 기록했다. 다만 현재 확인된 정보는 등락률뿐이며, 이를 설명할 기사 본문이나 헤드라인은 제공되지 않았다. 시장에서 엔비디아는 실적, 가이던스, 규제, 수급 같은 재료에 민감하게 반응하는 종목으로 읽히기 때문에, 하락률만으로 원인을 단정하면 판단이 흔들릴 수 있다. 이번 사안의 핵심은 가격 움직임 자체보다 오늘 저녁부터 내일까지 원문 기사나 회사의 공식 자료가 확인되는지 여부다.

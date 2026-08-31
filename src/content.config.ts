@@ -10,7 +10,11 @@ const posts = defineCollection({
     category: z.enum(['특징주', '공모주', '시황', '주간']),
     tags: z.array(z.string()).default([]),
     youtube: z.string().optional(),
-    image: z.object({ src: z.string(), alt: z.string() }).optional(),
+    image: z.object({
+      src: z.string(),
+      alt: z.string(),
+      credit: z.object({ name: z.string(), url: z.string() }).optional(),
+    }).optional(),
   }),
 });
 
