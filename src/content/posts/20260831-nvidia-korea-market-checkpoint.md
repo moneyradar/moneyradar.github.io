@@ -6,11 +6,10 @@ category: 시황
 tags: ["시황","엔비디아","나스닥","삼성전자","SK하이닉스"]
 youtube: "OWTMwk2a6fU"
 image:
-  src: "/img/20260831-nvidia-korea-market-checkpoint/hero.jpg"
+  src: "/img/20260831-nvidia-korea-market-checkpoint/hero.png"
   alt: "엔비디아 급락과 국내증시 점검"
   credit:
-    name: "RDNE Stock project"
-    url: "https://www.pexels.com/photo/close-up-shot-of-a-graph-7947742/"
+    name: "AI 생성 이미지"
 ---
 
 미국 증시는 지수별로 엇갈렸지만, 국내 투자자가 체감할 핵심은 AI 반도체 쪽의 약세다. 나스닥은 하락했고 엔비디아는 4% 넘게 밀리며 전일 국내 대형 반도체주의 조정과 맞물렸다. 전일 코스피도 1%대 후반 하락했고, 삼성전자와 SK하이닉스가 지수 부담의 중심에 있었다. 오늘 국내 장은 미국 지수 전체보다 엔비디아 급락을 국내 반도체 수급이 어떻게 받아들이는지가 더 중요한 확인점이다.
@@ -68,4 +67,4 @@ A. 그렇게 단정하기는 어렵다. 사실 목록상 약세 배경은 차익
 - [뉴욕증시 2일 이란 전쟁으로 변동성 장세…혼조 마감](https://news.google.com/rss/articles/CBMingFBVV95cUxNY1Zoa3RJZ1B3eWs1aGVVV3IxYzN4Snh1bUlNTzhscDNUX1JFV1NqODVZMjA3NnF1WEZfQ1FwU2gxWWhwUUw3dFlNVzdQRkduZ0R4UDFoeVpyUG5IcmtVYmlHSEMyRDdzVHViT001dHVaUjFUS1JGV1ZJZVJhM24za0cyZk41OWNzMElNZl8tTHV0Y1gyWExQbHkzRUFEdw?oc=5) — 미주조선일보
 - [＇신작 카드＇ 게임사, 빈 곳간 채울 새 IP 찾는다 - 와우넷 오늘장전략](https://news.google.com/rss/articles/CBMid0FVX3lxTE1TcDltbnBlWUJqdmZaMDQyQ2ZYT3BvZ2M1N2JzZDFNQnpWOGgxdlk5eWwtQ3RhNEl4bWxNZ0trSHVGdWZHcmRXcnVqQlZsMm96dEZoVzluRFg3dzZ6cHBqSTVzMjMtUE9GUlpEOWU2MndFRXQ1N1Bz?oc=5) — 한국경제TV
 - [잭슨홀서 날아든 금리 인상 경고…美 증시, 일제히 약세 마감](https://news.google.com/rss/articles/CBMibEFVX3lxTE1wQ1RVY3FzQ3FfazB6cjJUbXoycWN2SGpIcFZQeTdLUE1pVGEzQTdVWThySnlFOEV4M1V3Ri1ZdGZSQlE5SlUxZTQyTlNfelI1Wm9zV21leWx3NTc0Q0tGdm1QQ0twSk96N2VoMQ?oc=5) — 프리진경제
-- [이번주(8/31~9/4일) 증시일정 _ 맛보기](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRDIzOVlNckN0MDNYUXBKR1E4V3RjUUE1clI1NnBrRXRrUVE2T29XeW5USmlUbmllbjljT2otUkN4YzZ5YTVNRUNoM2tsN0pEN2pyR0VKX2RuV2xqU1BhT0ZfVk9rX2JXOUJaWlZneEsxa21rU2NrbzVCMUtNTDNCYk9jc01yVzBBc3ZB?oc=5) — 네이버 프리미엄콘텐츠
+- [이번주(8/31–9/4일) 증시일정 _ 맛보기](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRDIzOVlNckN0MDNYUXBKR1E4V3RjUUE1clI1NnBrRXRrUVE2T29XeW5USmlUbmllbjljT2otUkN4YzZ5YTVNRUNoM2tsN0pEN2pyR0VKX2RuV2xqU1BhT0ZfVk9rX2JXOUJaWlZneEsxa21rU2NrbzVCMUtNTDNCYk9jc01yVzBBc3ZB?oc=5) — 네이버 프리미엄콘텐츠

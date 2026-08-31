@@ -63,10 +63,13 @@ const jsonLd = [
     {post.data.image && (
       <figure class="hero-fig">
         <img class="hero-img" src={post.data.image.src} alt={post.data.image.alt} loading="eager" />
-        {post.data.image.credit && (
+        {post.data.image.credit && post.data.image.credit.url && (
           <figcaption>
             사진: <a href={post.data.image.credit.url} rel="noopener nofollow">{post.data.image.credit.name}</a> / Pexels
           </figcaption>
+        )}
+        {post.data.image.credit && !post.data.image.credit.url && (
+          <figcaption>{post.data.image.credit.name} — 내용을 표현한 연출 이미지입니다</figcaption>
         )}
       </figure>
     )}

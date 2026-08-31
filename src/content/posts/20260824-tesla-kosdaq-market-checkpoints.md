@@ -6,11 +6,10 @@ category: 시황
 tags: ["테슬라","코스닥","나스닥","시황","국장체크"]
 youtube: "KL6ShRs1PTs"
 image:
-  src: "/img/20260824-tesla-kosdaq-market-checkpoints/hero.jpg"
+  src: "/img/20260824-tesla-kosdaq-market-checkpoints/hero.png"
   alt: "테슬라 급등과 오늘 국장 점검"
   credit:
-    name: "RDNE Stock project"
-    url: "https://www.pexels.com/photo/close-up-shot-of-a-graph-7947742/"
+    name: "AI 생성 이미지"
 ---
 
 간밤 미국 증시는 지수 기준으로는 완만한 상승에 그쳤지만, 일부 대형 성장주와 테마주의 움직임은 훨씬 컸습니다. 특히 테슬라가 하루 5% 넘게 오르면서 국내 성장주와 코스닥 투자심리에 어떤 영향을 줄지가 오늘 장의 핵심 변수가 됐습니다. 전일 국내 시장은 코스피와 코스닥의 방향이 크게 엇갈렸고, 일부 주도주는 큰 폭으로 밀렸습니다. 아래 시세는 수집 시점 기준이며 실시간 가격과 다를 수 있습니다.

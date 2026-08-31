@@ -6,11 +6,10 @@ category: 시황
 tags: ["국장시황","나스닥","반도체","엔비디아","AMD"]
 youtube: "C1mHyZgEA0E"
 image:
-  src: "/img/20260826-market-semiconductor-spread/hero.jpg"
+  src: "/img/20260826-market-semiconductor-spread/hero.png"
   alt: "반도체 확산을 보는 오늘 증시"
   credit:
-    name: "RDNE Stock project"
-    url: "https://www.pexels.com/photo/close-up-shot-of-a-graph-7947742/"
+    name: "AI 생성 이미지"
 ---
 
 간밤 미국 증시는 주요 지수가 모두 상승으로 마감했습니다. 특히 나스닥의 상승 폭이 상대적으로 컸고, 반도체주 반등과 기술주 강세가 배경으로 보도됐습니다. 전일 국내 증시도 코스피와 코스닥이 함께 올랐기 때문에, 오늘 장은 해외 온기가 추가로 반영될 여지가 있는 상태에서 출발합니다. 핵심은 상승 재료가 일부 대형 기술주에 머무르지 않고 국내 반도체와 성장주 전반으로 넓어지는지입니다.
