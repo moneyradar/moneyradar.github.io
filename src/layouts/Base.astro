@@ -48,7 +48,7 @@ const gaCategory = article?.category ?? null;
     <script type="application/ld+json" set:html={JSON.stringify(ld)} />
   ))}
   <meta name="google-adsense-account" content="ca-pub-3158497424650748" />
-  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3158497424650748" crossorigin="anonymous"></script>
+  <!-- adsbygoogle.js 는 애드센스 승인 후 재삽입 — 승인 전엔 403·deprecated API 경고만 유발 (소유 확인은 메타+ads.txt 로 충분) -->
   <!-- Google tag (gtag.js) -->
   <script is:inline async src="https://www.googletagmanager.com/gtag/js?id=G-L195MZVQ0N"></script>
   <script is:inline define:vars={{ gaPageType, gaContentId, gaCategory }}>
