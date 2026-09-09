@@ -1,0 +1,6 @@
+# Cloudflare Pages 헤더 규칙.
+# *.pages.dev 미리보기 주소는 색인 금지 — 정식 주소(github.io → 커스텀 도메인)와 중복 콘텐츠가 되지 않게.
+https://moneyradar-blog.pages.dev/*
+  X-Robots-Tag: noindex
+https://:branch.moneyradar-blog.pages.dev/*
+  X-Robots-Tag: noindex

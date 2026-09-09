@@ -1,4 +1,7 @@
-name: Deploy to GitHub Pages
+name: Deploy
+
+# 이전 단계(2026-09-09): GitHub Pages 와 Cloudflare Pages 에 동시 배포한다.
+# 커스텀 도메인이 Cloudflare 쪽에 붙고 github.io 에서 301 이전이 끝나면 GitHub Pages 잡을 내린다.
 
 on:
   push:
@@ -20,8 +23,14 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: withastro/action@v3
+      # withastro/action 은 GitHub Pages 용 아티팩트만 남기므로 Cloudflare 용으로 dist 를 따로 보관한다.
+      - uses: actions/upload-artifact@v4
+        with:
+          name: dist
+          path: dist
+          retention-days: 1
 
-  deploy:
+  deploy-github-pages:
     needs: build
     runs-on: ubuntu-latest
     environment:
@@ -30,3 +39,17 @@ jobs:
     steps:
       - id: deployment
         uses: actions/deploy-pages@v4
+
+  deploy-cloudflare-pages:
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/download-artifact@v4
+        with:
+          name: dist
+          path: dist
+      - uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: pages deploy dist --project-name moneyradar-blog --branch main
