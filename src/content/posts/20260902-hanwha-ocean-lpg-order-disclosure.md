@@ -1,6 +1,6 @@
 ---
-title: "한화오션 4778억원 수주 보도와 주가 하락 판단 축"
-description: "한화오션이 4778억원 LPG 운반선 수주 보도에도 하락한 배경과 DART 공시 확인 포인트를 정리합니다."
+title: "한화오션 주가, 4778억 LPG선 3척 수주 보도에도 6.71% 하락"
+description: "한화오션 주가가 4778억원 LPG 운반선 3척 수주 보도에도 하락한 배경과 DART·거래소 공시 확인 일정을 정리합니다."
 date: 2026-09-02T17:05:00+09:00
 category: 특징주
 tags: ["한화오션","특징주","LPG운반선","수주공시","경기민감주"]
@@ -70,8 +70,8 @@ A. 제공된 보도 기준으로는 같은 시간대 검색상위 종목 대부�
 
 **출처**
 
-- [한화오션 주가, 9월 2일 장중 84,300원 4.10% 하락](https://news.google.com/rss/articles/CBMickFVX3lxTE9teUI3NnVzZW9CNmhUZk1EbndER2hacHRDQlN0cDQxSndNNGFJUU5uZHhzNnRXdE1MWWFFREQ1cHFkMHNMdHMyNl9mYTdNVTlzanpPNnJ1c2R5RE41NXNUZnAwTHVhSEtGcVRyMzlma045dw?oc=5) — 톱스타뉴스
-- [한화오션 '8만오션' 사수하나?](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9mUnA5Qkh0dGxqdXZJLUo1MzV5S01mXzRqY1FRU2g1VUVhTktGTjBYYy0yUE94VERwc3drdHJ1ZlA2YW1vaUJfUjBzZHY4VW9HaHVGVEU0d3poUE9FUHZhU25xc202OE1E?oc=5) — CBC뉴스
-- [4778억원 규모 LPG 운반선 3척 수주했지만 …한화오션 주가는 하락](https://news.google.com/rss/articles/CBMiakFVX3lxTE9iRVdyR2FnRTRLN3FXUUN3OWVMdjlObmNpYnBEMlZMXzA0WjRCc0NGZWxFVGRjUHJ5T3RRUk9UM0cweE45UzVPdVlXbk94aUNMbzI2MHhkRWw1X2lMTVhlMHFlTy0zTXU1akE?oc=5) — 콕스뉴스
-- [서울데이터랩개장 직후 인기 검색 종목 20選](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBoeVhEYWxxMEZxemFBdTNfUHlsRS1ZX0t4Y3RqQUVWRUozUU5EdzRjTUh5R2xTYVU0Zkk0SWUyQm1ndmVRRk9NNGdBTmsxS2swRmdwOU8wQQ?oc=5) — 서울신문
-- [태원물산, 주가 안정 위해 12억원 규모 자사주 매입 나선다](https://news.google.com/rss/articles/CBMic0FVX3lxTE9JOXVkcTdBbDdpR192bkxlTFFobTVmVlFYandacFpFZnBQNnk3ZnpQaFZxdDVIZ0kyaUlNLUQ5ZGpWajZQcFQ5U1paOFNmdGVsOXo2YVVDRmVqR19pcHZLZFJCTndQX194bHhWbGFUYS1YajQ?oc=5) — 데이터투자
+- [한화오션 주가, 9월 2일 장중 84,300원 4.10% 하락](https://www.topstarnews.net/news/articleView.html?idxno=16180234) — 톱스타뉴스
+- [한화오션 '8만오션' 사수하나?](https://www.cbci.co.kr/news/articleView.html?idxno=603165) — CBC뉴스
+- [4778억원 규모 LPG 운반선 3척 수주했지만 …한화오션 주가는 하락](https://www.coxnews.co.kr/news/articleView.html?idxno=5953) — 콕스뉴스
+- [서울데이터랩개장 직후 인기 검색 종목 20選](https://amp.seoul.co.kr/seoul/20260902500027) — 서울신문
+- [태원물산, 주가 안정 위해 12억원 규모 자사주 매입 나선다](https://www.datatooza.com/article/20260901150131643152ef321587_80) — 데이터투자

@@ -1,6 +1,6 @@
 ---
-title: "나스닥 1.57% 상승, 엔비디아발 국장 판단 축"
-description: "엔비디아 8.74% 급등 이후 뉴욕 기술주 강세와 오늘 국내 증시의 확산 여부, 리스크 요인을 정리합니다."
+title: "8월 28일 코스피 전망, 나스닥 1.57%·엔비디아 8.74% 상승"
+description: "8월 28일 코스피 전망에서 나스닥 1.57%, 엔비디아 8.74% 상승 이후 국내 반도체·성장주 확산과 환율 변수를 정리합니다."
 date: 2026-08-28T06:24:00+09:00
 category: 시황
 tags: ["나스닥","엔비디아","코스피","환율","PCE"]
@@ -64,7 +64,7 @@ Q. 미국 지수가 모두 올랐으니 국내 증시도 안심해도 되나요?
 **출처**
 
 - [시세 데이터](https://finance.yahoo.com) — Yahoo Finance
-- [뉴욕증시, 엔비디아 훈풍에 상승…나스닥 1.57% '껑충'](https://news.google.com/rss/articles/CBMib0FVX3lxTE41SUM4anRBNGFvRUJjWld1M3hKajRqaE1RQUF0c0lfdU9pY0N6NmZESzBid01GTUFRME54bU1SZlFJNktxSi1DS1U2UnJnaFdGMmwyakdBSXNSakZ1dlhqcHR2NlBjVm1jb25qQklvQdIBc0FVX3lxTE1acG5ra3dCOVhRaEJBSlA1WGpaeGR6MGNtSlVMcUVaLVplLUJrRkNkMGhYVHk1TjVuc0pHYUF4eGVBYTFiMXdNUkJoU01HWjczdVdwRHVUSWpwVW5yOVp2cTlseTZhcHQ1LWRLdTlWOUZyTjA?oc=5) — 뉴스웍스
-- [뉴욕증시, 상승세로 마감…나스닥 1.57%↑](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5Pc3NNUjFFQjBhOHQzNWw2T2RDMDNfV1pwYW45YUdGVTB0R2JpZWVYVHdXc1pqUGpvQl84OENHTnB3c1JydlY0YTFpWF9zSEhG?oc=5) — 블루밍비트
-- [속보 뉴욕증시, 엔비디아 호실적에 상승 마감…나스닥 1.57%↑](https://news.google.com/rss/articles/CBMiVEFVX3lxTE1QZHhNdi1OclhjN1NHX0FhUVllcUJRRXEzcGtjY1ZXQTlZdUhvcVFua0gzQ3g2WFM3MkRHR25sU2NXclpzR1BnMkhKOHpwSkZSSjZzQg?oc=5) — 이투데이
-- [속보엔비디아 호실적에 뉴욕증시 상승 마감…나스닥 1.57%↑](https://news.google.com/rss/articles/CBMiYEFVX3lxTE15NlJRamV1Qmp1cXRHT3JPaDgtd1htR2lUVF9zaDdHX21FQ0s4dHp3MC1HOFNwQ2lmYnBTMlVUelBLWkw3djdTSGNFRUE5MzBzdldpcEFOaFRUN2FnQk5DN9IBeEFVX3lxTE5NWUhGQ3d1d3JCQ0VSTHpENF9zRHk0Wkc4UWFhYk1wUk80M0NPakloNVQ5Wl9DdkVVa25SdWRab2h4WHlsY2FWWjg2UkVIX2xqT0VkVFVBaUJta3NtRFNsOGpsVmVvLUs2N0tfMUpkR2dqYlVFbTdQUQ?oc=5) — 뉴시스
+- [뉴욕증시, 엔비디아 훈풍에 상승…나스닥 1.57% '껑충'](https://www.newsworks.co.kr/news/articleView.html?idxno=851829) — 뉴스웍스
+- [뉴욕증시, 상승세로 마감…나스닥 1.57%↑](https://bloomingbit.io/feed/news/119257) — 블루밍비트
+- [속보 뉴욕증시, 엔비디아 호실적에 상승 마감…나스닥 1.57%↑](https://www.etoday.co.kr/news/view/2619102) — 이투데이
+- [속보엔비디아 호실적에 뉴욕증시 상승 마감…나스닥 1.57%↑](https://www.newsis.com/view/NISX20260828_0003766130) — 뉴시스

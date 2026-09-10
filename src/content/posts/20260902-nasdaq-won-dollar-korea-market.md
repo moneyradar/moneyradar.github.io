@@ -1,6 +1,6 @@
 ---
-title: "나스닥 하락과 원달러 1374.4원, 국장 판단 축"
-description: "미국 증시 동반 하락과 원/달러 1374.4원을 바탕으로 오늘 국장 초반 관전 포인트를 정리합니다."
+title: "9월 2일 코스피 전망, 나스닥 -1.03%·환율 1374.4원"
+description: "9월 2일 코스피 전망으로 나스닥 -1.03%, 원/달러 1374.4원, 코스닥 -2.05% 이후 성장주 수급 변수를 정리합니다."
 date: 2026-09-02T06:23:00+09:00
 category: 시황
 tags: ["나스닥","원달러환율","코스피","코스닥","미국증시"]
@@ -72,7 +72,7 @@ A. 사실 목록상 테슬라는 에인라이드의 테슬라 세미 트럭 500�
 **출처**
 
 - [시세 데이터](https://finance.yahoo.com) — Yahoo Finance
-- [뉴욕증시 금리도 유가도 안 도와준다…사흘째 하락 마감](https://news.google.com/rss/articles/CBMicEFVX3lxTE04d1Z6bkhXR3NQV253ZDJwTm9xbmJWRm5NUzFoS3BuSHpEOXI0SkZ6T0hlaC0yRGlianBOTXFieHpfUzMxSWdGS195TnFPLWI0bU1NSUYtRWFLNXVOR3FWc3B4SFFBYk5ncVpRSFI5TXQ?oc=5) — 연합인포맥스
-- [중동 긴장에 채권 매도세까지...뉴욕 증시 동반 하락 마감](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1JRWRFZlJYWS1lQUFVdUFORkJOT25uMmVfYS1hc3lJNmJUTkpJUl96UE8yaFBBdkVXNWU0RzY5NnVNYm1pel9JajM1TjhRQlUzZ2UyVGxacDR5Q1E2ekE?oc=5) — YTN
-- [속보 뉴욕증시, 중동긴장ㆍ채권 매도세에 하락 마감…나스닥 1.03%↓](https://news.google.com/rss/articles/CBMiVEFVX3lxTFB4dFB1ZFNrSzIzZDVfMWM4YjJYNnVRVnhjc21IMDIzbkZTLWo2SlAxbUQ0eldIYWNNVHR6MkF1cU0wRFFzbThUWkMyV1lDWG91SXAxSg?oc=5) — etoday.co.kr
-- [속보뉴욕증시, 미·이란 충돌·유가 상승에 하락 마감…나스닥 1.03%↓](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9LTmRJcm5VN1ZFdGJjWG1fa0YwdTJoY051MDdzTEJRUTlYZXZYdTFYb0pEYk9Ta0MtQmpIbjVtRnZCVnlGTDVnOWRSWWIteUdrMXl6Q05MaTRRWHJyQ19rVtIBeEFVX3lxTE1vMmVudkJncFp6ZXZYZDRkTVpkSEhvVzlDYnNIWWdLX01ybS1PQV82d29jSG84RklsakRXdm9UYkpuNUgxbHFmRk9GNzlpX0RWZEd2Qi1oU200Z2I3cE13c3dyTnN6NnFXMGZuaGE1UGNtaHl0dDRERw?oc=5) — 뉴시스
+- [뉴욕증시 금리도 유가도 안 도와준다…사흘째 하락 마감](https://news.einfomax.co.kr/news/articleView.html?idxno=4432972) — 연합인포맥스
+- [중동 긴장에 채권 매도세까지...뉴욕 증시 동반 하락 마감](https://www.ytn.co.kr/_ln/0104_202609020558069966) — YTN
+- [속보 뉴욕증시, 중동긴장ㆍ채권 매도세에 하락 마감…나스닥 1.03%↓](https://www.etoday.co.kr/news/view/2620731) — etoday.co.kr
+- [속보뉴욕증시, 미·이란 충돌·유가 상승에 하락 마감…나스닥 1.03%↓](https://www.newsis.com/view/NISX20260902_0003772325) — 뉴시스

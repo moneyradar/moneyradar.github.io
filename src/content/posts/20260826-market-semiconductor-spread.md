@@ -1,6 +1,6 @@
 ---
-title: "국장 시황, 나스닥 상승과 반도체 확산 관건"
-description: "나스닥 0.66% 상승 뒤 오늘 국장은 반도체 온기가 코스피·코스닥 전반으로 번지는지가 핵심이다."
+title: "8월 26일 증시 전망, 나스닥 0.66% 상승과 반도체주 반등"
+description: "8월 26일 증시 전망에서 나스닥 0.66%, AMD 4.91%, 원/달러 1380.0원과 국내 반도체·성장주 흐름을 확인합니다."
 date: 2026-08-26T06:24:00+09:00
 category: 시황
 tags: ["국장시황","나스닥","반도체","엔비디아","AMD"]
@@ -72,7 +72,7 @@ A. 엔비디아 실적 대기와 반도체주 반등이 핵심 변수입니다. 
 **출처**
 
 - [시세 데이터](https://finance.yahoo.com) — Yahoo Finance
-- [속보뉴욕증시, 반도체주 반등에 상승 마감](https://news.google.com/rss/articles/CBMiYEFVX3lxTE16UVJyVW5XRS1mSlZnbXViRzY1UTIzNlg4VFhCZVJHbms3bkdQN01lRVRsMC16MUtteTUyU0VHaTJDajhadk5lNkZoeTFsSFd5bUViVTNLU3JMNWpZUmplVg?oc=5) — 아시아경제
-- [뉴욕증시 3대 지수 일제히 상승... 엔비디아 실적 대기 속 기술주 강세 - 조선비즈](https://news.google.com/rss/articles/CBMingFBVV95cUxQc0NyakVQVU9EbWNRMXB4TVJpRkFVOU5BQWZEQjRlNndCOE5ZOE1PeUxrZ2FyQ0xHQzd4WTlpUlJJRW9VRWpwZ0JhVzFlN19KMmZrTncwbDBjUVVVamFOZGs4Xy1UR3lKLXZBZnVnaXE4YU8tX3BhTjNCVjNXMzdsREhkSDlVRkViWmNKNVpTU2dvU25sUGctLXlYS1lPd9IBsgFBVV95cUxPMDU2emNoQmEzT2ZvcmNMRUhPWnhEUUdyQWFsOWtDelBxTDBpai1VVUNPVm9WaWJEMlVUVnNNTi05WGFDR3ZhNXcwaWRaQU1tYmh3YzBLaE5GRjJCOXZkejJfRVNmcmRxcWpITERHWVhJSFlNUGFhQ2lTVVJkTXo5bEVSNjMzcEJXRmVSN2k1YXo3QnhONVlRNGVsN0R0Q3Rzd0JIUWotTGxPNUpNMjBKR1dn?oc=5) — Chosunbiz
-- [뉴욕증시, 상승세로 마감…나스닥 0.66%↑](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1yUVNFVnNFdWp6em1FSGxOOTNuOFRrUGlpMzF1M0w4bjgtQmdBU0ljQllaWHFpV1lRVXV1a3QxbkU0aHNJaWZ3YlZNa25CRzRT?oc=5) — 블루밍비트
-- [뉴욕증시 마감 금리·유가 하락에 반도체주 강세, 나스닥 0.66%↑](https://news.google.com/rss/articles/CBMiWEFVX3lxTE81eUFXaVJkM2tQb242dGt6WVh0eDZ5VUVEZklCenJ6NEUwU3QyRGNpa2M5YlpfMG5BZGNBU1pYU2Nic3p4bEFHYVpURDNodWZJa2dCS0ExQ0Q?oc=5) — 블록미디어
+- [속보뉴욕증시, 반도체주 반등에 상승 마감](https://www.asiae.co.kr/article/2026082604560649150) — 아시아경제
+- [뉴욕증시 3대 지수 일제히 상승... 엔비디아 실적 대기 속 기술주 강세 - 조선비즈](https://biz.chosun.com/international/international_economy/2026/08/26/AABOEUCKP5CDJO7QPJWCU3F7EY/) — Chosunbiz
+- [뉴욕증시, 상승세로 마감…나스닥 0.66%↑](https://bloomingbit.io/feed/news/119104) — 블루밍비트
+- [뉴욕증시 마감 금리·유가 하락에 반도체주 강세, 나스닥 0.66%↑](https://www.blockmedia.co.kr/archives/1132071) — 블록미디어

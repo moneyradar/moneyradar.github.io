@@ -1,6 +1,6 @@
 ---
-title: "테슬라 급등과 미국장 하락, 오늘 국장 판단 축"
-description: "간밤 뉴욕증시 하락과 테슬라 강세, 원화 강세를 바탕으로 오늘 국내장 관전 포인트를 정리했습니다."
+title: "9월 1일 코스피 전망, 테슬라 5.51% 급등과 환율 1367.3원"
+description: "9월 1일 코스피 전망에서 미국 3대 지수 하락, 테슬라 5.51%, 환율 1367.3원과 외국인 수급 확인 포인트를 정리합니다."
 date: 2026-09-01T06:24:00+09:00
 category: 시황
 tags: ["테슬라","미국증시","원달러환율","코스피","자율주행"]
@@ -72,7 +72,7 @@ A. 테슬라 상승 배경으로 사이버캡 출시와 FSD 기능 개선 기대
 **출처**
 
 - [시세 데이터](https://finance.yahoo.com) — Yahoo Finance
-- [뉴욕증시 美·이란 교전 재개에 위험 회피 우위…하락 마감](https://news.google.com/rss/articles/CBMicEFVX3lxTFBEcmlwMi0weDctR2gwNGlYdXoyLVdyR3lvZGJLR0libXRLZkQwbVlJcUtGeGF1aTU5eXlsSUdfdzJzZU0xLXdCd2pUZU8wR1lTb2xCczhKOWx6aS1FZThPUzF2V3g3bWlWeVQwWWg1MEY?oc=5) — 연합인포맥스
-- [속보뉴욕증시, 호르무즈 긴장 재고조에 하락 마감](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9vNTN6VnotX2VTU1A4SGFwemxjVjNTSjJCb29lZG83NldZdU9qUUpWSl9OUUdRdjRIWk9oZF9oVUpJc2hqcHBpVDVLaktWaHVkX3JrcjFoeGE4NXN3UnAyag?oc=5) — 아시아경제
-- [뉴욕증시, 美·이란 교전 재개에 하락 마감…다우 0.7% ↓](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1jS1pGSVBHMnhCSkJPa2dramZtZmkxclRmeDlGal9oMFNGWkx3LTlSVWZiTWhSTW5GelVXeHFTNG15dkpmOEJlVHhkdXZnSWVFR25RZW9tZzc0RlFPLWZ4RQ?oc=5) — 뉴시스
-- [뉴욕증시-1보 美·이란 교전 재개에 위험 회피 우위…하락 마감](https://news.google.com/rss/articles/CBMicEFVX3lxTE4wYUsxSEV2NFd4NHRvM1R5a2w3NDFXREw1a1lyTEtPcmxpZTlORTBOcnJGSmJoVjNQM1c3OXRfclctZU5HRXk3dzhJNHl1Y01RSmc5YlNEOWMybFhoa05pcWxLYUc5M1VBYWZhYXpJb3fSAXRBVV95cUxPUW9rc250Y3RCWVBqSWV2c1NFNkU2WHdRdEJFVnoxYjF4ZkMtTy05UXhvNHlnT3hJc29GTVVpaWFoR0d5dG03S010cVd2LU82bkwwYUozTDZCWml4eFZwdUVkZFpQNGQ1Ry1JNkZDLVlVTHcxYw?oc=5) — 연합인포맥스
+- [뉴욕증시 美·이란 교전 재개에 위험 회피 우위…하락 마감](https://news.einfomax.co.kr/news/articleView.html?idxno=4432728) — 연합인포맥스
+- [속보뉴욕증시, 호르무즈 긴장 재고조에 하락 마감](https://www.asiae.co.kr/article/2026090105080506565) — 아시아경제
+- [뉴욕증시, 美·이란 교전 재개에 하락 마감…다우 0.7% ↓](https://www.newsis.com/view/NISX20260901_0003770425) — 뉴시스
+- [뉴욕증시-1보 美·이란 교전 재개에 위험 회피 우위…하락 마감](https://news.einfomax.co.kr/news/articleView.html?idxno=4432727) — 연합인포맥스

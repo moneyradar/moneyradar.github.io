@@ -1,6 +1,6 @@
 ---
-title: "스카이랩스·쑤이위안 공모주, 일정과 수요 판단"
-description: "스카이랩스 청약 경쟁률과 쑤이위안 일정, 삼성전자·테슬라 등 특징주 후속 체크포인트를 정리했습니다."
+title: "스카이랩스 청약, 공모가 1만원·경쟁률 1.57대1"
+description: "스카이랩스 청약 결과인 공모가 1만원, 경쟁률 1.57대 1과 9월 4일 상장일, 쑤이위안 9월 2일 일정을 정리합니다."
 date: 2026-08-27T09:00:00+09:00
 category: 공모주
 tags: ["스카이랩스","쑤이위안","공모주","청약경쟁률","특징주"]
@@ -62,8 +62,8 @@ A. 아직 밴드와 상장 일정이 공개되지 않았기 때문에 보도된 
 
 **출처**
 
-- [없어서 몰렸던 공모주, 이젠 골라야 한다…9월 IPO 옥석가리기](https://news.google.com/rss/articles/CBMiT0FVX3lxTFBwVzg1N1o0bEZIWWx3V0R6SHZGOF9YR1JyZkZzcGlKMlJjc0EtRlJoZjlNVUNQYkJuRDFmM05JdlBVREN4YVZuZ0dJT2gzQ28?oc=5) — v.daum.net
-- [공모주 현황스카이랩스, 공모가 1만원 확정…26일부터 일반청약 돌입](https://news.google.com/rss/articles/CBMiaEFVX3lxTE56OVZmRklqWXliRV8yWFBHRGY0YTZTa3F1WWFXYzlFODVWRlVGWm5RSmxLSHV4V01mX2RTalNoNjc0aUFqOWx4N1ZVNjd5cXV4TUZ3UWQtZlBpUGl0QTJoRFhZWFBOYzlj?oc=5) — CBC뉴스
-- [‘따따블’ 대신 ‘반토막’에 공모주 시장 ‘쇼크’···주관 증권사도 손실 우려](https://news.google.com/rss/articles/CBMickFVX3lxTFB0NlZ5VmdwRzRxdUdtVWdfcU9HU1RpMldGc1pUczdidEtjRVUtdDdVQmRveF9BbEJwbWM2SzVrR2lvUFViWlYxeUxXZTZ4T0x6dHVZWEszdjdSS05kU1p5NE5hWnpkM1czVTJQQk5VLUphUdIBdkFVX3lxTE5TOHFqaWVFYklfZXNDOVlBc0RCNm9SaFIxUGxpdkx0Z0gzYVRfMFhyakRoMVJ0Q0IybGtTTWd0WWcySWZaaHBfckpETHVjS1Vob0wzVlU0QUdOdmV2anRLQTFsNjFhTm9aU0pLVlhWQ2hLdlRfZVE?oc=5) — 시사저널e
-- [치킨값 벌어볼까…'스카이랩스' 공모주 청약, 오늘까지](https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxX2lrcFc4Q0k5amRwR3cyZzFSMjBiek9Ua3N0SElDa05QdHo5UWRneno0UzR2UnM1REdGNWVaZVJFdEFFTXlCdVJzYjBkSERFdm5ZcUlB?oc=5) — 위키트리
-- [무료 인터넷 룰렛 의료인를 위한 알고리즘 설계 실전 기술](https://news.google.com/rss/articles/CBMiY0FVX3lxTFB5elBhQUp2Q2NENVhiYzBHLUhGREZTaVR4ZWVKcmpHWnJaZEVvUmZ5VXVFUlQySzVnamt1RzBndmJIU29pQkxZdkJwa3RLUjhZeUFGVHkxTlFwQjdOc3B4VWwwSQ?oc=5) — Platea Magazine
+- [없어서 몰렸던 공모주, 이젠 골라야 한다…9월 IPO 옥석가리기](https://v.daum.net/v/20260826054304422) — v.daum.net
+- [공모주 현황스카이랩스, 공모가 1만원 확정…26일부터 일반청약 돌입](https://www.cbci.co.kr/news/articleView.html?idxno=601243) — CBC뉴스
+- [‘따따블’ 대신 ‘반토막’에 공모주 시장 ‘쇼크’···주관 증권사도 손실 우려](https://www.sisajournal-e.com/news/articleView.html?idxno=423321) — 시사저널e
+- [치킨값 벌어볼까…'스카이랩스' 공모주 청약, 오늘까지](https://www.wikitree.co.kr/articles/1155331) — 위키트리
+- [무료 인터넷 룰렛 의료인를 위한 알고리즘 설계 실전 기술](https://www.plateamagazine.com/noticias?app=6269.html) — Platea Magazine

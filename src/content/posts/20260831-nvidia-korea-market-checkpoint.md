@@ -1,6 +1,6 @@
 ---
-title: "엔비디아 급락 후 국내증시, 반도체 수급 판단 축"
-description: "나스닥 약세와 엔비디아 급락 이후 오늘 국내증시에서 확인할 반도체 수급 포인트를 정리했습니다."
+title: "8월 31일 코스피 전망, 엔비디아 -4.57%에 반도체 수급 주목"
+description: "8월 31일 코스피 전망에서 엔비디아 -4.57%, 삼성전자·SK하이닉스 낙폭과 환율 1,377.3원을 짚습니다."
 date: 2026-08-31T12:13:00+09:00
 category: 시황
 tags: ["시황","엔비디아","나스닥","삼성전자","SK하이닉스"]
@@ -64,7 +64,7 @@ A. 그렇게 단정하기는 어렵다. 사실 목록상 약세 배경은 차익
 **출처**
 
 - [시세 데이터](https://finance.yahoo.com) — Yahoo Finance
-- [뉴욕증시 2일 이란 전쟁으로 변동성 장세…혼조 마감](https://news.google.com/rss/articles/CBMingFBVV95cUxNY1Zoa3RJZ1B3eWs1aGVVV3IxYzN4Snh1bUlNTzhscDNUX1JFV1NqODVZMjA3NnF1WEZfQ1FwU2gxWWhwUUw3dFlNVzdQRkduZ0R4UDFoeVpyUG5IcmtVYmlHSEMyRDdzVHViT001dHVaUjFUS1JGV1ZJZVJhM24za0cyZk41OWNzMElNZl8tTHV0Y1gyWExQbHkzRUFEdw?oc=5) — 미주조선일보
-- [＇신작 카드＇ 게임사, 빈 곳간 채울 새 IP 찾는다 - 와우넷 오늘장전략](https://news.google.com/rss/articles/CBMid0FVX3lxTE1TcDltbnBlWUJqdmZaMDQyQ2ZYT3BvZ2M1N2JzZDFNQnpWOGgxdlk5eWwtQ3RhNEl4bWxNZ0trSHVGdWZHcmRXcnVqQlZsMm96dEZoVzluRFg3dzZ6cHBqSTVzMjMtUE9GUlpEOWU2MndFRXQ1N1Bz?oc=5) — 한국경제TV
-- [잭슨홀서 날아든 금리 인상 경고…美 증시, 일제히 약세 마감](https://news.google.com/rss/articles/CBMibEFVX3lxTE1wQ1RVY3FzQ3FfazB6cjJUbXoycWN2SGpIcFZQeTdLUE1pVGEzQTdVWThySnlFOEV4M1V3Ri1ZdGZSQlE5SlUxZTQyTlNfelI1Wm9zV21leWx3NTc0Q0tGdm1QQ0twSk96N2VoMQ?oc=5) — 프리진경제
-- [이번주(8/31–9/4일) 증시일정 _ 맛보기](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRDIzOVlNckN0MDNYUXBKR1E4V3RjUUE1clI1NnBrRXRrUVE2T29XeW5USmlUbmllbjljT2otUkN4YzZ5YTVNRUNoM2tsN0pEN2pyR0VKX2RuV2xqU1BhT0ZfVk9rX2JXOUJaWlZneEsxa21rU2NrbzVCMUtNTDNCYk9jc01yVzBBc3ZB?oc=5) — 네이버 프리미엄콘텐츠
+- [뉴욕증시 2일 이란 전쟁으로 변동성 장세…혼조 마감](https://chosundaily.com/bbs/board.php?bo_table=hotclick&wr_id=32406&sca=%EA%B2%BD%EC%A0%9C&page=8) — 미주조선일보
+- [＇신작 카드＇ 게임사, 빈 곳간 채울 새 IP 찾는다 - 와우넷 오늘장전략](https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608280303) — 한국경제TV
+- [잭슨홀서 날아든 금리 인상 경고…美 증시, 일제히 약세 마감](https://www.freezine.co.kr/news/articleView.html?idxno=17398) — 프리진경제
+- [이번주(8/31–9/4일) 증시일정 _ 맛보기](https://contents.premium.naver.com/momentumtree/momentum/contents/260830172047877su) — 네이버 프리미엄콘텐츠

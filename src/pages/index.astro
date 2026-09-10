@@ -1,16 +1,11 @@
 ---
 import { getCollection } from 'astro:content';
 import Base from '../layouts/Base.astro';
+import PostList from '../components/PostList.astro';
 
 const posts = (await getCollection('posts')).sort(
   (a, b) => b.data.date.valueOf() - a.data.date.valueOf()
 );
-// 날짜+시각 — 같은 날 아침 시황·저녁 특징주가 발행 순서대로 보이게 (frontmatter date 는 분 단위 KST)
-const fmt = (d: Date) =>
-  d.toLocaleString('ko-KR', {
-    year: 'numeric', month: '2-digit', day: '2-digit', hour: '2-digit', minute: '2-digit',
-    hour12: false, timeZone: 'Asia/Seoul',
-  });
 
 const jsonLd = [
   {
@@ -57,21 +52,10 @@ const jsonLd = [
     <h1>머니레이더 — 시장의 기회를 스캔합니다</h1>
     <p>특징주 딥다이브 · 공모주 · 시황 브리핑</p>
   </div>
-  <ul class="postlist">
-    {posts.map((p) => (
-      <li>
-        <div class="body">
-          <span class="date">{fmt(p.data.date)}</span>
-          <span class="chip">{p.data.category}</span>
-          <a class="t" href={`/posts/${p.id}/`}>{p.data.title}</a>
-          <p class="d">{p.data.description}</p>
-        </div>
-        {p.data.image && (
-          <a class="thumb" href={`/posts/${p.id}/`} aria-hidden="true" tabindex="-1">
-            <img src={p.data.image.src} alt="" loading="lazy" />
-          </a>
-        )}
-      </li>
+  <nav class="cats" aria-label="카테고리">
+    {['특징주', '공모주', '시황', '주간'].map((c) => (
+      <a class="chip" href={`/category/${c}/`}>{c}</a>
     ))}
-  </ul>
+  </nav>
+  <PostList posts={posts} />
 </Base>

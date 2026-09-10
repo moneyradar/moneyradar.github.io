@@ -1,6 +1,6 @@
 ---
-title: "테슬라 중국 리콜과 사이버캡, 판단 축은 신뢰 리스크"
-description: "테슬라 -3.83% 하락 배경을 중국 리콜, 사이버캡 공개 일정, 후속 확인 포인트로 정리했습니다."
+title: "테슬라 주가, 중국 리콜에 3.83% 하락…사이버캡 9월 3일"
+description: "테슬라 주가 3.83% 하락 배경인 중국 리콜 보도와 9월 3일 사이버캡 공개 일정, 리콜 세부 확인 포인트를 정리합니다."
 date: 2026-08-25T17:04:00+09:00
 category: 특징주
 tags: ["테슬라","중국리콜","사이버캡","로보택시","특징주"]
@@ -62,8 +62,8 @@ A. 사이버캡 양산형 모델 공개 일정은 기대 재료가 될 수 있�
 
 **출처**
 
-- [테슬라, 로보택시 사이버캡 양산형 모델 9월 3일 공개 |](https://news.google.com/rss/articles/CBMidEFVX3lxTFB6ZGhQVmdaTXhwUm5nYnZJZFBzSHFyS2pONGVOaTZkNjlWUzJ0YjFvWXdaeWo3NWpabUtvZUk2Tkg0UW5GS0ZNMDk4MkJ6SjdpLWFHNXBsMTVOb05ycGh5NTFDNkF3aEZhQm9GMW02NWVIN25t?oc=5) — 연합인포맥스
-- [테슬라 주가, 오늘 하락하는 이유는?](https://news.google.com/rss/articles/CBMid0FVX3lxTE9HTGg0SWRncDdVYzRJczRoTmVtR3BBTlZZSmRubzZZSXUxRUN0SEp5S0Q4ZjNTRDZ0WE00aHR0QldJMDhUSUhVRFpHVlQ4U05lM2RFbW8tVG1uTHBiSDY4SGZSSG1NQ1d2MDZSS1VhMUtIRXBDMm1J?oc=5) — Investing.com 한국어
-- [테슬라(TSLA), 中 대규모 리콜… 브랜드 신뢰 훼손 우려-대신](https://news.google.com/rss/articles/CBMidkFVX3lxTFBzdEc5UHRtajJ1QklJRlNpMUI3aHNTMFFYY0k4TWZLa0hwcmlQajBBb3NJcHpIeG5PbWtobVU2Rk1rQ1lqc29tQXFmeXFYUlhxR2lyMEQxdW8yWHhlOElMbmFJWGQzelhacjBLLXlSVFd2Rk1WR1E?oc=5) — 인포스탁데일리
-- [현대차, 본업 부진에 목표가 뚝뚝...26일 ‘인베스터데이’ 반전카드 되나](https://news.google.com/rss/articles/CBMickFVX3lxTE8tNkpwZUVPd2JkT0VHMEJKbjBta2lIS0NESEJTNm1XZGJLeUVBUVpGOFNvb19pc3BhNDdQUXR3OFFoQVp3QU83a0RvU0cweGVUYWtLSEZkdjdmOHVpZE1lLUNSeGVNdV9rY3RJOTc2ZUdpUQ?oc=5) — 오피니언뉴스
-- [“중국 역대 최대 리콜”…테슬라 신뢰 리스크 예고](https://news.google.com/rss/articles/CBMib0FVX3lxTE5oODU1RFUzaFA3TDA4bWFrQU9oN2tvUXNzVnlaYW5zMXNpMjVob2NkZEZxTVZPb0NHdlJtMDVMUVctbVNvaENaOTI1OFM3Ymg1bmJ3ZEE3UXlCLS14MmJibWtKeGktSV8zZTNpYkRqUQ?oc=5) — 진일보
+- [테슬라, 로보택시 사이버캡 양산형 모델 9월 3일 공개 |](https://news.einfomax.co.kr/news/articleViewAmp.html?idxno=4431650) — 연합인포맥스
+- [테슬라 주가, 오늘 하락하는 이유는?](https://kr.investing.com/news/stock-market-news/article-93CH-2072581) — Investing.com 한국어
+- [테슬라(TSLA), 中 대규모 리콜… 브랜드 신뢰 훼손 우려-대신](https://www.infostockdaily.co.kr/news/articleView.html?idxno=217607) — 인포스탁데일리
+- [현대차, 본업 부진에 목표가 뚝뚝...26일 ‘인베스터데이’ 반전카드 되나](https://www.opinionnews.co.kr/news/articleView.html?idxno=143511) — 오피니언뉴스
+- [“중국 역대 최대 리콜”…테슬라 신뢰 리스크 예고](https://www.jnilbo.com/news/articleView.html?idxno=90000059260) — 진일보

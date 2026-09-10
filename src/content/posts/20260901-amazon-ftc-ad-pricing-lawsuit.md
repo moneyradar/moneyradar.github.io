@@ -1,6 +1,6 @@
 ---
-title: "아마존 FTC 광고 소송, 최저 단가가 핵심 쟁점"
-description: "FTC의 아마존 광고비 조작 소송 보도와 주가 하락을 최저 단가·주정부 참여·피해 규모 중심으로 정리했습니다."
+title: "아마존 주가, FTC 광고 소송에 2.50% 하락 마감"
+description: "아마존 주가 약세를 FTC 광고 소송, 최저 단가 인상 의혹, 20개 넘는 주정부 참여와 피해 추정액으로 정리합니다."
 date: 2026-09-01T17:04:00+09:00
 category: 특징주
 tags: ["아마존","FTC","광고소송","빅테크규제","특징주"]
@@ -70,8 +70,8 @@ A. FTC 또는 법원 기록에 광고주 몰래 제품 광고 최저 단가를 �
 
 **출처**
 
-- [아마존(AMZN), AWS 성장·수익성 기대↑... 현금흐름도 개선 전망-KB](https://news.google.com/rss/articles/CBMidkFVX3lxTE5FU2ZCc1lxYnpibmxxN21xM1V5dm5fcVROZWZORjQzNURkNlpOTTJLRm9jcHl0VFRKcFRkZE10d3BqeEpIaDVzYnBBYThld0JyRlA0NGxTR2haeXJYWXRwX2hlSmg3Vkx5Uk5CNWlUeG13TTNpTmc?oc=5) — 인포스탁데일리
-- [아마존, 월요일 주가 2.5% 하락한 이유는?](https://news.google.com/rss/articles/CBMihwJBVV95cUxNZVBEMTk5azZUYUFPYlBkZThsVk1rSjFPTURaN2VCZ2NFbGQ0ZU1BRjlFc3lEZk0yZHFzX242TWF4SmJqZ3JxUEl2ZEVyTVJSTGFYYzE0NkROX1dxYTUzSEZBenUwY0xkcUloWGNRVnpGT3o2SXhyT19JeGNvOW5mSE5Kd180eHh3YkkzMnVsekQyY2JqQ09hU3NOVkk1QlNRa21Sb0ZBYnlnZWk3bXc1RnpYVVRKejhXOTdRSVVkRlR5UnNIZ2xxeGExU0gzZ0xUbVNLa3FHcXl2ZEE1bXZuUXBzV3g3SDRUby1PYjE0MjBCTTQtLWdLcVV1ajhEVndhOVZwbGotTQ?oc=5) — Benzinga
-- [FTC, 아마존닷컴 광고 관행 관련 소송 제기…주가 하락](https://news.google.com/rss/articles/CBMicEFVX3lxTE83RWZiR0U1TDJ6UnlVVjR5elBOLVJsYlh5bHJBUHBzZ09XQkZZZnJ2RjB4ZlMzckY0NkZKMk9kc3daSXZzZE1KQmlfODlQT0ZsdXFGODRKUDdKN2F4M3VMYWstTFV1am1Fdi1rQzc2MjY?oc=5) — Investing.com 한국어
-- [미국 특징주 아마존, FTC 광고비 조작 소송에 2%대 하락](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ONXRUUUpLTXpjSVhiaWIzQVJIZnVHbVgxdGpLZUpFUmF3ZVpWbHBaWWdUQ0VoRzFQMjhzQ0xyZWpRc2gyME9GektuWWw3cnM5QVVXVV9ZX0dVNk5J?oc=5) — newspim.com
-- [Amazon.com Inc (AMZN) 주식 움직였습니다 하락 3.06%에 8월31일: 투자자가 알아야 할 정보](https://news.google.com/rss/articles/CBMijwFBVV95cUxOOFZmZ1haSEJZZzJ3SE90eEFEelNWWVRIYkF6QUZPeDA5T2thUl9DWkdwUV9SLXFLVUlaZVRlU2R0MW5QYk0yRjc5cEN0NjVpcVJsMHpVUEF2cGhZUUdTdGlweUZRVWYwUURpRlYtd2pnbWcxU1loN1VFdWpXc0FVdUlrS0Nsb3VVVk1oTTRRUQ?oc=5) — TradingKey
+- [아마존(AMZN), AWS 성장·수익성 기대↑... 현금흐름도 개선 전망-KB](https://www.infostockdaily.co.kr/news/articleView.html?idxno=217729) — 인포스탁데일리
+- [아마존, 월요일 주가 2.5% 하락한 이유는?](https://kr.benzinga.com/news/usa/trading/%EC%95%84%EB%A7%88%EC%A1%B4-%EC%9B%94%EC%9A%94%EC%9D%BC-%EC%A3%BC%EA%B0%80-2-5-%ED%95%98%EB%9D%BD%ED%95%9C-%EC%9D%B4%EC%9C%A0%EB%8A%94/) — Benzinga
+- [FTC, 아마존닷컴 광고 관행 관련 소송 제기…주가 하락](https://kr.investing.com/news/stock-market-news/article-2079916) — Investing.com 한국어
+- [미국 특징주 아마존, FTC 광고비 조작 소송에 2%대 하락](https://www.newspim.com/news/view/20260901000012) — newspim.com
+- [Amazon.com Inc (AMZN) 주식 움직였습니다 하락 3.06%에 8월31일: 투자자가 알아야 할 정보](https://www.tradingkey.com/kr/news/market-movers/262142313-market-movers-amzn-20260831) — TradingKey

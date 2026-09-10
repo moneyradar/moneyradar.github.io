@@ -1,6 +1,6 @@
 ---
-title: "한화오션 1조5527억 수주, 공시 확인 축"
-description: "한화오션 주가 강세와 양밍해운 6척 수주 보도, 조선주 확산 배경과 DART 확인 포인트를 정리했습니다."
+title: "한화오션 주가, 양밍해운 6척 1조5527억 수주 보도"
+description: "한화오션 주가 흐름과 양밍해운 6척 1조5527억원 수주 보도, 2029년 인도 일정과 DART 확인 항목을 정리합니다."
 date: 2026-09-03T17:04:00+09:00
 category: 특징주
 tags: ["한화오션","조선주","양밍해운","수주공시","특징주"]
@@ -62,8 +62,8 @@ A. 주가보다 먼저 볼 것은 공식 공시다. DART 또는 KIND에서 양�
 
 **출처**
 
-- [조정 끝났나… 한화오션 2조 잭팟에 조선 3사 '뱃고동'](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MU29PNHBDOUtqb29OZExJdk14c0M4UzFWbl9mVVdtTGpvTzFhOUpnMkVMUGRVVjZIYTVoYjdLbDN5TnA4V3lWVG9QOXZPWFJ3TEdrMHpRZWtHdw?oc=5) — 한국경제
-- [대만에서 1.5조 원 대박…'한화오션' 주가 상승한 이유](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBJY0VNZjVjcjRXTU1rZE10OW1vQ3oxX3k0WjdIeUMwSmNvbWlmLTVlWFVGbWNma1loZUUweWxVbmVfUmY2VlJRZVdGd3Rfa2lJMFhvSXJR?oc=5) — 위키트리
+- [조정 끝났나… 한화오션 2조 잭팟에 조선 3사 '뱃고동'](https://www.hankyung.com/article/202609032157i) — 한국경제
+- [대만에서 1.5조 원 대박…'한화오션' 주가 상승한 이유](https://www.wikitree.co.kr/articles/1157078) — 위키트리
 - [특징주 한화오션, 1.5조 규모 컨테이너선 수주에 4%대↑](https://news.google.com/rss/articles/CBMiakFVX3lxTE9mbDltcjBXRjhRZFJZOW4wcVZhc21nTk56bnRqamJkdy1HdUltUGxlNml2a0dWN0h1Nk9BRVA1M2N5cUdYcmNGSndqVTJlVXgyR0E3OFlGLVhzQmpQS0s0X3FPOU81eEVWU3c?oc=5) — cstimes.com
 - [1.5조 계약 수주에 한화오션 7% 급등…조선주 ‘강세’ 코주부](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1NX1ZMelRKQVQ5eVJxdVcwdkM1Ylloc201dXpiempiLV9SZG5rQkFKb0QyX0xYR256ZDNMT3BXT19UN0lzVkpwUkFhTkNWTUxRMkHSAVNBVV95cUxNMVVLR1NYQ0ZqYzVfdkliOUl3Tm5ORl8yUHlqelNVamc1ZEFGOUxDM1A0SkQ0ZUZQVmVibk8taHpvb3dBVFRLUnJveW1UeHBYV1BEQQ?oc=5) — 서울경제
 - [한화오션, 4거래일 하락 뒤 반등…8만7100원으로 오랜만에 기지개](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBhQkZaT3NWMnlsYkthRFBjSXBBUDR5b25HQlg2Q2o3Q1RkdkI5enpQRFgzVnNpeVBfOXVxS3pxRkhDQ2k4OU1zdUktLV9rN2g2Tlc4Mm14ZFFEd01rQ1pUM2N0VmxjZ1Q4?oc=5) — CBC뉴스

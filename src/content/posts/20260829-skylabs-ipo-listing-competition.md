@@ -1,6 +1,6 @@
 ---
-title: "스카이랩스 9월 4일 상장, 청약 경쟁률 판단 축"
-description: "스카이랩스 청약 마감 수치와 9월 4일 상장 일정을 정리하고 낮은 경쟁률의 의미를 짚었습니다."
+title: "스카이랩스 청약 경쟁률 1.57대 1, 9월 4일 상장"
+description: "스카이랩스 청약 경쟁률과 9월 4일 상장 일정을 정리하고, 기관 63.41대 1·비례 2.14대 1 수치를 확인합니다."
 date: 2026-08-29T09:04:00+09:00
 category: 공모주
 tags: ["스카이랩스","공모주","청약경쟁률","상장일","수요예측"]
@@ -63,8 +63,8 @@ A. 그렇게 단정하기는 어렵습니다. 상장 후 주가는 공모가, �
 
 **출처**
 
-- [블랙잭 피규어 마케터를 위한 서비스 디자인 핵심 방법](https://news.google.com/rss/articles/CBMihAFBVV95cUxQMUtCSEllNGVIZV9FT2FYbjhJRWhMZjliQk5xMEh0RlU0dWFVbURGN2huM1ltNmFHUUI4cnhPTTY1ZHR2a2s5Rjg1aUJuY0IzaUZucmplTUhTV2pfNGFGR2s5MVQ5OGt1SGtnRllwbVl5S2lKYXdsTmE4bTM5RUMxelN6VHE?oc=5) — Platea Magazine
-- [주간IPO 9월 첫째 주, 네오사피엔스·와이즈플래닛컴퍼니 수요예측 시작](https://news.google.com/rss/articles/CBMic0FVX3lxTFBCQXUxRTUydEpSQnJmQkNfUFlkNm44RXRjOFNtQ0I3T1BER0hWY3NsY1F6aUxJem5ZWEZZSGl3cUVtTnJzc1NGcXZEakF2LV95MnFSREpmMVI3b1k2OG1ZS3l3aUZ4T3lnZTVJX2FZLWY1OW8?oc=5) — 소비자가 만드는 신문
-- [치킨값 벌어볼까…'스카이랩스' 공모주 청약, 오늘까지](https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxX2lrcFc4Q0k5amRwR3cyZzFSMjBiek9Ua3N0SElDa05QdHo5UWRneno0UzR2UnM1REdGNWVaZVJFdEFFTXlCdVJzYjBkSERFdm5ZcUlB?oc=5) — 위키트리
-- [공모주 현황스카이랩스, 공모가 1만원 확정…26일부터 일반청약 돌입](https://news.google.com/rss/articles/CBMiaEFVX3lxTE56OVZmRklqWXliRV8yWFBHRGY0YTZTa3F1WWFXYzlFODVWRlVGWm5RSmxLSHV4V01mX2RTalNoNjc0aUFqOWx4N1ZVNjd5cXV4TUZ3UWQtZlBpUGl0QTJoRFhZWFBOYzlj?oc=5) — CBC뉴스
-- [‘따따블’ 대신 ‘반토막’에 공모주 시장 ‘쇼크’···주관 증권사도 손실 우려](https://news.google.com/rss/articles/CBMickFVX3lxTFB0NlZ5VmdwRzRxdUdtVWdfcU9HU1RpMldGc1pUczdidEtjRVUtdDdVQmRveF9BbEJwbWM2SzVrR2lvUFViWlYxeUxXZTZ4T0x6dHVZWEszdjdSS05kU1p5NE5hWnpkM1czVTJQQk5VLUphUdIBdkFVX3lxTE5TOHFqaWVFYklfZXNDOVlBc0RCNm9SaFIxUGxpdkx0Z0gzYVRfMFhyakRoMVJ0Q0IybGtTTWd0WWcySWZaaHBfckpETHVjS1Vob0wzVlU0QUdOdmV2anRLQTFsNjFhTm9aU0pLVlhWQ2hLdlRfZVE?oc=5) — 시사저널e
+- [블랙잭 피규어 마케터를 위한 서비스 디자인 핵심 방법](https://www.plateamagazine.com/?ID=baccarat%20%EB%B0%94%EC%B9%B4%EB%9D%BC.html) — Platea Magazine
+- [주간IPO 9월 첫째 주, 네오사피엔스·와이즈플래닛컴퍼니 수요예측 시작](https://www.consumernews.co.kr/news/articleView.html?idxno=762501) — 소비자가 만드는 신문
+- [치킨값 벌어볼까…'스카이랩스' 공모주 청약, 오늘까지](https://www.wikitree.co.kr/articles/1155331) — 위키트리
+- [공모주 현황스카이랩스, 공모가 1만원 확정…26일부터 일반청약 돌입](https://www.cbci.co.kr/news/articleView.html?idxno=601243) — CBC뉴스
+- [‘따따블’ 대신 ‘반토막’에 공모주 시장 ‘쇼크’···주관 증권사도 손실 우려](https://www.sisajournal-e.com/news/articleView.html?idxno=423321) — 시사저널e

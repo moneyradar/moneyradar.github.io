@@ -1,0 +1,50 @@
+---
+// 카테고리 페이지 — 특징주 / 공모주 / 시황 / 주간.
+import { getCollection } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import PostList from '../../components/PostList.astro';
+
+const DESC: Record<string, string> = {
+  특징주: '전일 미국장과 당일 국내장에서 가장 큰 이슈를 만든 종목을 골라 사건·숫자·확인 포인트를 정리합니다.',
+  공모주: '이번 주 공모주 청약 일정, 공모가, 경쟁률과 상장 후 확인할 점을 정리합니다.',
+  시황: '간밤 미국 증시와 오늘 코스피·코스닥의 관전 포인트를 매일 아침 정리합니다.',
+  주간: '한 주의 시장 흐름을 관통하는 테마와 확인해야 할 공시·문서를 결산합니다.',
+};
+
+export async function getStaticPaths() {
+  const posts = await getCollection('posts');
+  const cats = [...new Set(posts.map((p) => p.data.category))];
+  return cats.map((category) => ({ params: { category }, props: { category, posts: posts.filter((p) => p.data.category === category) } }));
+}
+const { category, posts } = Astro.props;
+const url = `https://money-radar.kr/category/${encodeURIComponent(category)}/`;
+const jsonLd = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'CollectionPage',
+    name: `${category} — 머니레이더`,
+    url,
+    inLanguage: 'ko',
+    isPartOf: { '@type': 'WebSite', name: '머니레이더', url: 'https://money-radar.kr/' },
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: '홈', item: 'https://money-radar.kr/' },
+      { '@type': 'ListItem', position: 2, name: category, item: url },
+    ],
+  },
+];
+---
+<Base
+  title={`${category} 글 모음 — 머니레이더`}
+  description={`${DESC[category] ?? ''} 총 ${posts.length}편.`}
+  jsonLd={jsonLd}
+>
+  <div class="hero">
+    <h1>{category}</h1>
+    <p>{DESC[category]} · {posts.length}편</p>
+  </div>
+  <PostList posts={posts} />
+</Base>

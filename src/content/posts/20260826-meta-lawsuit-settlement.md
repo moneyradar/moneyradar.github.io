@@ -1,6 +1,6 @@
 ---
-title: "메타 소송 이슈에도 상승, 29개 주 합의가 판단 축"
-description: "메타가 규제·소송 부담 속에서도 오른 이유와 29개 주 합의 논의, 국내 플랫폼주 확인점을 정리했습니다."
+title: "메타 주가, 소송 부담에도 1.97% 상승…29개 주 합의 논의"
+description: "메타 주가 상승 배경과 29개 주 합의 논의, 1.4조달러 제재금 이슈와 빅테크 차별화를 정리합니다."
 date: 2026-08-26T17:04:00+09:00
 category: 특징주
 tags: ["메타","빅테크","소셜미디어규제","NAVER","카카오"]
@@ -71,8 +71,8 @@ A. 국내 플랫폼주와 연결해 볼 수는 있지만, 같은 방향으로 �
 
 **출처**
 
-- [메타는 올랐는데 알파벳은 빠졌습니다. 오늘 한국 플랫폼주가 갈릴 이유](https://news.google.com/rss/articles/CBMihwFBVV95cUxPR1FhMHNiWHhSUm1FUlh1bEF0eU9XMjVzMTZJcjF3Y3RIOWt5Z3dtbFlrWkFJcjdJUGN6MTQ2ZTY4VWhYcUMxQmhmX2FTaDN0al9mZzBjNEpNSVRldVo1WDdfaFNIbHF6WEtjSVhTSkc5Z3NlaDdWRDJvOWVXU1ZPNmJLcjdPRHc?oc=5) — 네이버 프리미엄콘텐츠
-- [에버코어, 메타 주가 ‘50% 상승 여력’ 외친 이유는?](https://news.google.com/rss/articles/CBMitgJBVV95cUxNaDlGM3M5MTNkRFp6dGk0YWhoTnVDeDY0WVA2eTFBTGdNNC15NklFOFgycmVYSmNpS1N1MTZqajRsXzZwOU4tMWE4WVE2N0xIRXRvUXd2aWxOVDFnTzhaSkJQdGtWQWh4eDRBeVhSZVRWcjJpVW10bHl0NWNYWVVvc3FVcEMxaHlieVhsV2tsR3QyVXNIaFVxLVlfbGpmN1RlNm9aSlc1VldpY01tMU85V1JSNzhWU0VsUGhXR0wzb2VyY2QxdmhUcW1FUWxaNDRsaWRDYlBfekdvRmVsVVpjQ1VMeUpiMmFUUDZXcVN0OE1CaGxNckpqSUliYWtuY245OVZ6bllPNGE3TVlvVjA0MGp6ZC1kbUE4RjlfRnhOVWt6ZDBZaWI0aTRTM2pUdUhhM2ViYVhB?oc=5) — Benzinga
-- [단독 메타 시총 맞먹는 1.4조달러 걸렸다…29개州와 합의 논의｜Global Money Club](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1sYXhFb1ItdERXSHJDQkJNYU11MUJwRWJ6VHBDZUJsczh2MmtOZ285MGo4dUJnZFZzQ0FlYy14VlhIMExBWGhXRzBZNFlnRFR4Nk5PUFFTdnB0UWM?oc=5) — 중앙일보
-- [美 법정 선 인스타그램 책임자, "SNS 중독 방지 기능 청소년들 싫어했지만 도입"](https://news.google.com/rss/articles/CBMigwFBVV95cUxOdFBKc1dlRjM5eFVkc1lseDhhbDVOaVlMWjdOMFczMFRlbXNwVWU5TnFWcDllTnFaYmxPdHVQUlM1MW5tSXlMczItUXJZdVFXb3JKbWhoWHBwNXJZakdHSU1aLXc4TnhDTWF4dGlGODVMbHpvcHN1TkViZG0wdlVvOHdCZw?oc=5) — 조선일보
-- [유럽 폭염, 주가도 갈랐다…냉각·전력망 기업 부상 ESG 뉴스 5](https://news.google.com/rss/articles/CBMibEFVX3lxTE1nS3dWR3BQbW1yTXJxLTZ2Qy1sajdIMVpFNmh1a1A1a09henNNb1dRYlRrcVJtUFlGZmtnRjRnVHhtd2NVZ3RMRHZkSnZrZVhGVGh0RGswcG5UQ0lobDdyX1QxaFh0d3B1QnQ2dA?oc=5) — 한경매거진&북
+- [메타는 올랐는데 알파벳은 빠졌습니다. 오늘 한국 플랫폼주가 갈릴 이유](https://contents.premium.naver.com/signals/signalnote/contents/260826081932415im) — 네이버 프리미엄콘텐츠
+- [에버코어, 메타 주가 ‘50% 상승 여력’ 외친 이유는?](https://kr.benzinga.com/news/usa/analystratings/%EC%97%90%EB%B2%84%EC%BD%94%EC%96%B4-%EB%A9%94%ED%83%80-%EC%A3%BC%EA%B0%80-50-%EC%83%81%EC%8A%B9-%EC%97%AC%EB%A0%A5-%EC%99%B8%EC%B9%9C-%EC%9D%B4%EC%9C%A0%EB%8A%94/) — Benzinga
+- [단독 메타 시총 맞먹는 1.4조달러 걸렸다…29개州와 합의 논의｜Global Money Club](https://www.joongang.co.kr/gmc/article/25456273) — 중앙일보
+- [美 법정 선 인스타그램 책임자, "SNS 중독 방지 기능 청소년들 싫어했지만 도입"](https://www.chosun.com/economy/tech_it/2026/08/26/TNISKR4L4NBZRCLU353MCM7LMM/) — 조선일보
+- [유럽 폭염, 주가도 갈랐다…냉각·전력망 기업 부상 ESG 뉴스 5](https://magazine.hankyung.com/business/article/202608263229b) — 한경매거진&북

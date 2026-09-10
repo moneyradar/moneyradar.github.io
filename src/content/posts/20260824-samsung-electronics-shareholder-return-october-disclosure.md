@@ -1,6 +1,6 @@
 ---
-title: "삼성전자 110조 주주환원 급락, 10월 공시 판단축"
-description: "삼성전자 주가가 대규모 환원 발표 뒤 급락했다. 핵심은 자사주 소각 규모와 집행 시점이다."
+title: "삼성전자 주가, 90조–110조 환원에도 -8.70% 급락"
+description: "삼성전자 주가 급락 배경과 90조–110조원 환원 재원, 10월·내년 1월 공시에서 볼 자사주 소각 변수를 정리합니다."
 date: 2026-08-24T17:05:00+09:00
 category: 특징주
 tags: ["삼성전자","주주환원","자사주소각","코스피","엔비디아실적"]
@@ -62,8 +62,8 @@ image:
 
 **출처**
 
-- [삼성전자, 사상 최대 110조 환원에도 6%대 급락…왜?](https://news.google.com/rss/articles/CBMicEFVX3lxTE55Ukl5dnM4enV1cnFNbXhXZ05rR1lSdnBTbTFJR2lkN1ZwUl91Z1FkV28za0FfcXJ0RUF2ZHdjZ0l5SmZkOVJjUF9vaXNHMFo4WUlQd0ltR1dEbDdhdEhaWlNHR0hGS3RGNzF5d2ZUMDA?oc=5) — 연합인포맥스
-- [삼성전자 8% 폭락…110조 역대급 돈잔치에도 주가 무너진 이유 종목+](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1UZVJPcFNCMDc0N2ZTeXg1dEtPWjQxbXNHYW5Mb2YzcGdpQUVSZzhBQ0NpcGJkbUVxaEhjdkJvLXMtZlEyaC1JR0l4OTd6YkNqSllRZG5xM1hvQQ?oc=5) — 한국경제
-- [‘110조 주주환원’에도 삼성전자 5%대 급락, 왜?](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5sd0g3LVAxcVd1YkdVY3I2aldIc3ZaZlRkb2Z1MXJBdUNlSHNuUXFtNnd4dlVMaS05eWN3TFRBRVZtLWdITzFzWm8wdi14LW13bEdhbHV1Ui1ib0tJRHEwZ1Z1aklvZ2M?oc=5) — 한겨레
-- [삼성전자, 오전 사이 7% 넘게 급락...환율 1,370원대 진입](https://news.google.com/rss/articles/CBMiXkFVX3lxTE02YWdCQVllNlZHdXVyaGtfV1ZXb2w0aHVxbkJXNUNJVGh2cHBTYjFUcXYyd2ljSE1WcXVCYzJSaHdFM1k3RFNjU2hYb2gzbUd0Z250dWJ5cHV2SlIwM0E?oc=5) — YTN
-- [“돈 더 푸는데 주가는 왜 더 빠지죠?”…삼성전자 주가 8% 급락 이유는](https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3VUJFa3ZWTWM3dnFHUWR6TnhaNjRCT0I3TzVuZFNvQ1J6U05aaXA5cEM4dDJWSFRET1ZfbmJGdnBTa1I0eWV3cFFQQlpCYUZXbFE?oc=5) — 매일경제
+- [삼성전자, 사상 최대 110조 환원에도 6%대 급락…왜?](https://news.einfomax.co.kr/news/articleView.html?idxno=4431438) — 연합인포맥스
+- [삼성전자 8% 폭락…110조 역대급 돈잔치에도 주가 무너진 이유 종목+](https://www.hankyung.com/article/2026082487246) — 한국경제
+- [‘110조 주주환원’에도 삼성전자 5%대 급락, 왜?](https://www.hani.co.kr/arti/economy/finance/1274263.html) — 한겨레
+- [삼성전자, 오전 사이 7% 넘게 급락...환율 1,370원대 진입](https://www.ytn.co.kr/_ln/0102_202608241202021653) — YTN
+- [“돈 더 푸는데 주가는 왜 더 빠지죠?”…삼성전자 주가 8% 급락 이유는](https://www.mk.co.kr/news/stock/12134696) — 매일경제

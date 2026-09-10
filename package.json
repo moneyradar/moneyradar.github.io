@@ -12,6 +12,7 @@
   "dependencies": {
     "@astrojs/rss": "^4.0.0",
     "@astrojs/sitemap": "^3.2.0",
-    "astro": "^5.1.0"
+    "astro": "^5.1.0",
+    "rehype-external-links": "^3.0.0"
   }
 }

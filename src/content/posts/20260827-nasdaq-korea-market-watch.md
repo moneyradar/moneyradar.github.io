@@ -1,6 +1,6 @@
 ---
-title: "나스닥 약보합, 국내증시 환율·AI주 판단 축"
-description: "미국 주요 지수는 관망 속 소폭 하락했습니다. 오늘 국장은 AI주 반응과 원/달러 환율을 함께 봐야 합니다."
+title: "8월 27일 코스피 전망, 엔비디아 실적 대기·환율 1,384원"
+description: "8월 27일 코스피 전망으로 엔비디아 -1.59%, 원/달러 1,384원, AI·반도체 반응을 확인합니다."
 date: 2026-08-27T06:24:00+09:00
 category: 시황
 tags: ["나스닥","코스피","원달러환율","엔비디아","팔란티어"]
@@ -71,7 +71,7 @@ A. 팔란티어는 2.76% 상승했고, 미 국방부 계약 증가가 테크 등
 **출처**
 
 - [시세 데이터](https://finance.yahoo.com) — Yahoo Finance
-- [뉴욕증시 엔비디아 실적 앞두고 방향성 자제…약보합 마감](https://news.google.com/rss/articles/CBMicEFVX3lxTE1WM3ZMTWRNSmZzM1Bsb1Y3cXlINzVpeHh2dXZ1T2FDMnlEejBzRXRjT3BFUVZEWTF2d2FlVWpqbERZZzJJWm5VYldUa1NNZzlMLXJkYWZjLUZ5QkgwWExvRElOQ0ljY2gtMHNsbVRNTzI?oc=5) — 연합인포맥스
-- [뉴욕증시, 엔비디아 실적 앞두고 약보합 마감…나스닥 0.08%↓](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1YRE5TLVZnRkxnbTNOeGZPZWZZZmtWV2V0bHNBTGhBbGdYSXYzdUZpU1RUcjliYVpTX3dCQy1JcTdLX29peERwcV92M3dIX25MUGlfR3lNV1d6MmR1Q3RvN9IBYEFVX3lxTE1YRE5TLVZnRkxnbTNOeGZPZWZZZmtWV2V0bHNBTGhBbGdYSXYzdUZpU1RUcjliYVpTX3dCQy1JcTdLX29peERwcV92M3dIX25MUGlfR3lNV1d6MmR1Q3RvNw?oc=5) — 연합뉴스
-- [뉴욕증시, 혼조 마감 다우 0.21% 하락… 물가 지표 불안감에 관망세 - 조선비즈](https://news.google.com/rss/articles/CBMingFBVV95cUxORWduYmtrQ2JjZDlNWkY5cXU3aWtLUldXTjQ1T0x0dmR6dW11b05IcGFwZFpKczNicmhuMHhuXzZSLTFoM3NhTjcxdFNmd25wSFJ1cDFtaDhlUmN4Tkpoc1pVUFEzUV9LYmJfTFpjMUdZbk11TERQSHJCNE1YUDNOTkJ3OFNZV2RVNXltTmtmTG9GOUZ1ZV9FYUtNcGlDUdIBsgFBVV95cUxNQm5YNHdHWWZyY21LaEh5dVlheEZCektlSkJ1MVZDUlJqRFE5cVJpMDdWdWl2MU9RVms3NmtuX2pobVJXeHJPajhNUW1iUEhodzBxd1FhUlNaSXU0ZlFkMGE5NDVxODJRaDQ1SXp5UFk2b1llMjhWeFpQbTBUeWtyNXJuaGE2RlVJakdNUkluSWxBWTNXLWF4MGlvb2ZMX0tVeU9tYmFUQ0FnNERIc2pMbXBB?oc=5) — Chosunbiz
-- [뉴욕증시, 엔비디아 실적 앞두고 약보합 마감…나스닥 0.08%↓](https://news.google.com/rss/articles/CBMiUkFVX3lxTE4yWDZtWjdmcFZidTF2RzVlN1lsTjF3eDhpV1o0MXZnWVc2WEowZlZ2Vk1BaGkzdjF0eWRobm9kZ0g0ZVFLWjFxYWZrbDd4QlJ1OGc?oc=5) — 매일경제 마켓
+- [뉴욕증시 엔비디아 실적 앞두고 방향성 자제…약보합 마감](https://news.einfomax.co.kr/news/articleView.html?idxno=4431988) — 연합인포맥스
+- [뉴욕증시, 엔비디아 실적 앞두고 약보합 마감…나스닥 0.08%↓](https://www.yna.co.kr/amp/view/AKR20260827006800072) — 연합뉴스
+- [뉴욕증시, 혼조 마감 다우 0.21% 하락… 물가 지표 불안감에 관망세 - 조선비즈](https://biz.chosun.com/international/international_economy/2026/08/27/T2DZZOERUNCXFK6WSDH4QWJYLY/) — Chosunbiz
+- [뉴욕증시, 엔비디아 실적 앞두고 약보합 마감…나스닥 0.08%↓](https://stock.mk.co.kr/news/view/1148789) — 매일경제 마켓

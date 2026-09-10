@@ -1,6 +1,6 @@
 ---
-title: "삼성전자 급락 뒤 나스닥 약세, 오늘 판단 축"
-description: "반도체 투매로 나스닥이 하락한 뒤 국내 증시는 삼성전자 낙폭 소화 여부가 핵심 변수입니다."
+title: "8월 25일 코스피 전망, 삼성전자 8.70% 급락 뒤 나스닥 약세"
+description: "8월 25일 코스피 전망에서 삼성전자 -8.70% 급락 소화와 나스닥 -0.76%, 업종별 차별화를 확인합니다."
 date: 2026-08-25T06:23:00+09:00
 category: 시황
 tags: ["삼성전자","나스닥","반도체","코스피","시황"]
@@ -72,7 +72,7 @@ A. 단정할 수는 없습니다. 나스닥은 0.76% 하락했고 주요 반도�
 **출처**
 
 - [시세 데이터](https://finance.yahoo.com) — Yahoo Finance
-- [뉴욕증시, 반도체주 약세에 혼조 마감… 나스닥 0.76% 하락 - 조선비즈](https://news.google.com/rss/articles/CBMingFBVV95cUxOcGVBcDdwOWFxSXJnZlQ4QTVIRldHbExIdkFZcGtwUGE2a1REUDQweGJxOHlCam1HQTQwODdRaGFaZENCUnVSSGdIYlQtbTVxR2NqMDEtU0w0S1ZzckY3VnRXVS1RSEZ1ZjNzbkVDRHdSOEJ2a0pqU0lvaDFRNGwyTXAxem5rTkgtR19zcXJfR0o3bGg0ak90aWxPUlZoZ9IBsgFBVV95cUxPNVdqa3VESDR2ZmlWNUU0cDFqVEJRUXRzNjFFUkhua0Zra2o0bno0SVYtNTVaSFZUcWswM3d6TF9pVlRYSWg3RmhHaVpuYzVlM2NOcEZweDg4WDk3N3c1MVNJRk5JZC1LQzFYZjZhdGhOVEVwMHE2eHFjYjdqbTYzZWVpVnVJZkV3Wk9rbXhBTVp6TUNQQmUyLVF5ajZEeU9ieURycFo5OUptcnA1S1I3MzRB?oc=5) — Chosunbiz
-- [속보뉴욕증시, 반도체 약세에 혼조 마감](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBfTXR2N3hkUDJGU1BvV1B3S2RfTVBPdUdDU0t2WW1jRDE1Yjd2U044QnBLbi0tTzVDaTAtV1dIMkxKUzVlZFZBbGVTZmZNTlpWT2FTbmZUSFlpdDliczRMLQ?oc=5) — 아시아경제
-- [뉴욕증시, 유가·국채금리 하락에도 반도체 투매…나스닥·S&P 500↓](https://news.google.com/rss/articles/CBMickFVX3lxTE9ZZDU4Nzl2aE1nUkt6RDZPZlhmWnhoXzBJaGE1eUMwQWxncTBWMkVLUkxHQXJTWTNkWVlyNFIxbHp0WUNMOVFObjZtM3k1SUxRNnhnTnppY0hWVC11MU9oOXJxT2I5Q19wdVFSUlRsbEdIZw?oc=5) — KB Think
-- [뉴욕증시, 기술주 약세에 혼조…나스닥 0.77% 하락뉴욕마감](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ReDQzYVBFME9hV1pRRkxIQnpVVTdMYkRRQzdaOWZYRktEOVVCZGpxNnBwQWg5d3p5LVd2NEhrOEdWM1JmNkN4aFdDUVVRQjZhSGlaWTNnUGNJNTlzNV8tY3BRcHg?oc=5) — MTN 머니투데이방송
+- [뉴욕증시, 반도체주 약세에 혼조 마감… 나스닥 0.76% 하락 - 조선비즈](https://biz.chosun.com/international/international_economy/2026/08/25/MABQKZ2ZANAYTHCLUVLPW3IIXU/) — Chosunbiz
+- [속보뉴욕증시, 반도체 약세에 혼조 마감](https://www.asiae.co.kr/article/2026082503391840819) — 아시아경제
+- [뉴욕증시, 유가·국채금리 하락에도 반도체 투매…나스닥·S&P 500↓](https://kbthink.com/news-list/view.html?newsId=20260825054137720) — KB Think
+- [뉴욕증시, 기술주 약세에 혼조…나스닥 0.77% 하락뉴욕마감](https://news.mtn.co.kr/news-detail/2026082506043743361) — MTN 머니투데이방송

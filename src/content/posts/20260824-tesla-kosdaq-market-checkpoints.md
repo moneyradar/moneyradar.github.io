@@ -1,6 +1,6 @@
 ---
-title: "테슬라 5.14% 급등, 코스닥이 오늘 판단 축"
-description: "미국 지수는 완만히 올랐지만 테슬라는 5%대 급등했다. 코스닥 급락 뒤 오늘 장 체크포인트를 정리했다."
+title: "8월 24일 증시 전망, 테슬라 5.14% 급등과 코스닥 4.63% 하락"
+description: "8월 24일 증시 전망에서 테슬라 5.14% 상승, 코스닥 4.63% 하락, 엔비디아 실적·PCE 일정을 정리합니다."
 date: 2026-08-24T07:22:00+09:00
 category: 시황
 tags: ["테슬라","코스닥","나스닥","시황","국장체크"]
@@ -64,7 +64,7 @@ A. 그렇게 단정하기는 어렵습니다. 전일 코스닥은 4.63% 하락�
 **출처**
 
 - [시세 데이터](https://finance.yahoo.com) — Yahoo Finance
-- [뉴욕증시-주간전망 '베선트 풋'에 곤란해진 워시…엔비디아 실적·PCE 지표도](https://news.google.com/rss/articles/CBMiW0FVX3lxTE81cW8wdm1tN2lCYUlERU56SFVNZUZwS1BQVjNPMnBfNWZZemU0MjdHeEZwOFZtX194UUZqV3FWZFZneXlIc2JwQmtFM3hWUG83WDJWQ1NkR1Z6WWPSAWBBVV95cUxOT09sOWxndzFNRHJRSFpTUXYyWlREd200TTRYckV3eUVhVG1XWWsxQV9tWmJvOGFVZDY0SVJYMEdWQ29qb01hM0pINEp3d3A0MGdqVm1tYmpyT3lvLXd1VG8?oc=5) — 연합뉴스
-- [뉴욕증시, 잭슨홀·엔비디아 실적·PCE 물가지표 촉각](https://news.google.com/rss/articles/CBMiaEFVX3lxTE11MnF2ckd2R0doNXI2bEpaZ2Q3U0VLSXRyNzFjUEZhR25yd3FVNXMtZng2dk90QkR1QXJORHBJSTAwZUVFSzUwUUhWLWtxRF9RT1hxY0ExdW1neDUtMTRyb0lpWGwyd2J4?oc=5) — 매일경제TV
-- [SK하이닉스, 연속 강세로 170만원선…새주 흐름은?](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5CY1JrMGkwb1o5NXF6SmxPaGVnTkRFY3U2RnNVSExybDZwUUdWeEJsSnE2MHprRUdyeWxROVJRcHB2M25LZkY1TVN0UFI1ZmdoOTJEUVk0OW93NFl5Vmh5aTRFYXZWd29n?oc=5) — CBC뉴스
-- [아이온큐·리게티컴퓨팅 등 급등…美 양자컴퓨터주 주가 일제히 강세](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1UM3hsRXNpZTFQNUVKX1IzekdVWmNqYnFPOVJ0VmdfOGFKQmNrQTVMQllKUmdRN2NmdTZOT0w5dWh6d0duMzlrUUhKa3BualBXaU1jLVlJM1BfQlg4Ni1EaS1UOEhmU2lV?oc=5) — CBC뉴스
+- [뉴욕증시-주간전망 '베선트 풋'에 곤란해진 워시…엔비디아 실적·PCE 지표도](https://www.yna.co.kr/view/AKR20260823005500009) — 연합뉴스
+- [뉴욕증시, 잭슨홀·엔비디아 실적·PCE 물가지표 촉각](https://mbnmoney.mbn.co.kr/news/view?news_no=MM1005906180) — 매일경제TV
+- [SK하이닉스, 연속 강세로 170만원선…새주 흐름은?](https://www.cbci.co.kr/news/articleView.html?idxno=600489) — CBC뉴스
+- [아이온큐·리게티컴퓨팅 등 급등…美 양자컴퓨터주 주가 일제히 강세](https://www.cbci.co.kr/news/articleView.html?idxno=600469) — CBC뉴스

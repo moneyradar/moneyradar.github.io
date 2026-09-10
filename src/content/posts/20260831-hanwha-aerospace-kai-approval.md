@@ -1,6 +1,6 @@
 ---
-title: "한화에어로스페이스 하락, KAI 승인 핵심 판단축"
-description: "공정위의 KAI 지분 취득 승인과 한화에어로스페이스 하락을 지배력 미확보 판단 중심으로 정리했습니다."
+title: "한화에어로스페이스 주가, KAI 지분 15.89% 승인 속 4.75% 하락"
+description: "한화에어로스페이스 주가 하락 배경을 KAI 지분 15.89%, 정부 측 35.16%, 추가 신고 조건으로 정리했습니다."
 date: 2026-08-31T17:04:00+09:00
 category: 특징주
 tags: ["한화에어로스페이스","KAI","공정거래위원회","방산","특징주"]
@@ -71,8 +71,8 @@ A. 현재 보도 기준으로는 그렇게 보기 어렵다. 공정위는 한화
 
 **출처**
 
-- [박규빈의 재무 아나토미 ‘115조 수주·자산 58조’…한화에어로 ‘초고속 성장’의 명암](https://news.google.com/rss/articles/CBMiY0FVX3lxTE5tZVFrWG1tSHBWUlJ1SHNJbzQ1dWpHSVBJOF9ET2JzQzlKNnUtMGQyOGpMbHJGWUVWMjNidXRucy1rZWNsQms3aTZ6Q0dRZlByMlh1emxfdWxqRUpESU5TakxSZw?oc=5) — 에너지경제신문
-- [한화에어로스페이스 주가 55,000원 하락 후 장마감](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1OcEFxS3l4MFZNekU4RXpqU2pVSmZMSS04Yk1RVHZneHBsWTFUaWFnMjJJQkcxTVl4Q29yUW9TbHlIeC1hc2pLMGNfNUNUY1VBZG8ydVJCaFF2dk9t?oc=5) — 아시아뉴스통신
-- [한화에어로스페이스 주가, 8월 31일 장중 1,134,000원 1.99% 하락](https://news.google.com/rss/articles/CBMickFVX3lxTE5OMU5Vc012SzdrQ1dGQXc4NWZnWDhqZzExelV6RVlJZGNzTnZuOFFCYjhfMnhMSEllMnltd1o4MmpmQXVSXzU5bjBKXzdqVEFWWFZCc1JfbE41NDcxU3VuQUVSWVhnUExTRG9DVGpyd0h3Zw?oc=5) — 톱스타뉴스
-- [공정위, 한화의 KAI 주식 취득 승인…"지배력 확보 수준 아냐" - 머니투데이](https://news.google.com/rss/articles/CBMibEFVX3lxTFBuWXdKNGhNRS1EYWUtYTRraVZROUc1ZjU1aC1zVEItY2ZiYkdwUUMwbnNPSnFfV1pLT2MzZ3pzZjQwVmpzZTZXT0VYYkhSUXZhQ1hmSnFHRUVHaWZzdGhtTUdxTjBYWG1lTkJPZtIBckFVX3lxTE52RlVlQW1MS3llZ0FocHRfcTZPRnZLSVhKQ1I2aGRRNDVXQ1RXMGhwZ0VqWUlmd01EYWRGVXYxRjhGY2F0cmYyWlgxYkNmekNxY0dBZjFCTXJBaHhhYUJZcUlxMEl6djlOTy1MTEJMdXgtQQ?oc=5) — 머니투데이
-- [공정위 한화의 KAI 주식 취득 승인, "지배력 확보 수준 아냐"](https://news.google.com/rss/articles/CBMic0FVX3lxTFBzYWRiQ3hTRmxkV3VZdzAycFpCS1Z1bXYzTEpMcGJIOU10aG5mQ3pBbElHTzItQWZtaHhrRF9XQy1YVjRnNmc3Um03Mi1lQzBuWHdTVEdYSXFXNjdRa1VGU1JRSHNBb1dobmxNbVg2SEZZSFE?oc=5) — 비즈니스포스트
+- [박규빈의 재무 아나토미 ‘115조 수주·자산 58조’…한화에어로 ‘초고속 성장’의 명암](https://www.ekn.kr/web/view.php?key=20260831023428287) — 에너지경제신문
+- [한화에어로스페이스 주가 55,000원 하락 후 장마감](https://www.anewsa.com/detail.php?number=3193940) — 아시아뉴스통신
+- [한화에어로스페이스 주가, 8월 31일 장중 1,134,000원 1.99% 하락](https://www.topstarnews.net/news/articleView.html?idxno=16178023) — 톱스타뉴스
+- [공정위, 한화의 KAI 주식 취득 승인…"지배력 확보 수준 아냐" - 머니투데이](https://www.mt.co.kr/industry/2026/08/31/2026083114025111519) — 머니투데이
+- [공정위 한화의 KAI 주식 취득 승인, "지배력 확보 수준 아냐"](https://www.businesspost.co.kr/BP?command=article_view&num=446026) — 비즈니스포스트

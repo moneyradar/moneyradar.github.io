@@ -1,6 +1,6 @@
 ---
-title: "엔비디아 급등과 잭슨홀 금리 변수 판단"
-description: "엔비디아 실적 서프라이즈와 70% 성장 전망, 잭슨홀 이후 금리 변수가 기술주에 미칠 영향을 정리했습니다."
+title: "엔비디아 주가, 매출 962억2천만달러·8.74% 급등"
+description: "엔비디아 주가 흐름을 매출 962억2천만달러, EPS 2.22달러, 잭슨홀 금리 신호와 수익성 경로까지 정리했습니다."
 date: 2026-08-28T17:04:00+09:00
 category: 특징주
 tags: ["엔비디아","AI반도체","잭슨홀","기술주","금리"]
@@ -70,8 +70,8 @@ A. 기술주는 실적 기대뿐 아니라 금리 변화에도 민감하게 반�
 
 **출처**
 
-- [엔비디아 주가 급등...하루 만에 시총 4420억 달러 늘어](https://news.google.com/rss/articles/CBMiXkFVX3lxTE0wUERUOE16d09mZVI1Yy1IT1o0My1UZ0hEOVFUTHRiTUloZWpUbVNxV2hnQVdBOGxDLVVlOFpkMHhYbDlkRFlNZ25xemxBRUZHaTJfM1N3SjNBeFRNMVE?oc=5) — 더구루
-- [굿모닝 마켓 올해 엔비디아 주가 약 22%↑…시총 1위 '굳건'](https://news.google.com/rss/articles/CBMiT0FVX3lxTFBHLUlaM05ZRHVhSE1TazNscUJpa0kxbEZsY25BM3dfVlo3aFd5YkY1dVRqYnMzXzB3UktwWHNzS2xrTlM1dWNvQWQ1N3c1bDg?oc=5) — v.daum.net
-- [뉴욕마켓워치 AI 논란 날려버린 엔비디아…주식↑채권↓달러 보합](https://news.google.com/rss/articles/CBMicEFVX3lxTE12anFtUEtPRHRCRjlJbzV6djR1X3M5NUtmRDhUanNGTUQ2ZlNPNmtQaXJ0TDlCcUdQRzVfeGpTMjhfeUh1RTNDTDBJRU9mMG5oTnQ2RjRmTXJyUlk0aWRzRTJMODdOZnpVRTZQb1YzaXY?oc=5) — 연합인포맥스
-- [잘 나가는 엔비디아…라이벌 AMD가 따라잡을까?](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcGotaUNQTUdBTDM0b2djN01NYk9oOTZrWUVSWEdMbEh4YS1nUWtQWW9ZS0hlcVRKOUtiZm10RDFYUnk3UjQyT0ZNQWpydERwdWRZakhLLU0zN3V0V1ByVDdfQ0pETElUTmVpNWNNYzhxZ3owbmFEQjJZQUdudlhfcDVQZ2twNWZ0Nmtz?oc=5) — 조선일보
-- [엔비디아 시총 610조원 급등…하루 상승폭 역대 2위](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9KWDgtUGh6OElFMXRtMU1qYjcwakNTWjJIZEhqdU95dmlhaE02LTNNZnl2bVpaUFVlckpsMm45WkJmNnktWFRaYnlRZ3dDSzFVV1pQamJHR1V6QTDSAWBBVV95cUxQVVpTLXRPYkRzQUt2a2ZsOFRkcGxwcHEyMEpWdGM2ZEFQeWpySko0ZEJINm1JcEwtbGVvUURnTjhqck42dy0yeXVLT2ZSWjRsSG9INC1KdTBYaVQ3VXhFOXA?oc=5) — 연합뉴스
+- [엔비디아 주가 급등...하루 만에 시총 4420억 달러 늘어](https://theguru.co.kr/news/article.html?no=106387) — 더구루
+- [굿모닝 마켓 올해 엔비디아 주가 약 22%↑…시총 1위 '굳건'](https://v.daum.net/v/20260828082229529) — v.daum.net
+- [뉴욕마켓워치 AI 논란 날려버린 엔비디아…주식↑채권↓달러 보합](https://news.einfomax.co.kr/news/articleView.html?idxno=4432308) — 연합인포맥스
+- [잘 나가는 엔비디아…라이벌 AMD가 따라잡을까?](https://www.chosun.com/economy/stock-finance/2026/08/28/YGWASCVGPVFYNEX2AW3YLS536M/) — 조선일보
+- [엔비디아 시총 610조원 급등…하루 상승폭 역대 2위](https://www.yna.co.kr/view/AKR20260828023000009) — 연합뉴스

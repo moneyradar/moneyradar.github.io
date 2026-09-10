@@ -1,8 +1,13 @@
 import { defineConfig } from 'astro/config';
 import sitemap from '@astrojs/sitemap';
+import rehypeExternalLinks from 'rehype-external-links';
 
 export default defineConfig({
   site: 'https://money-radar.kr',
+  markdown: {
+    // 본문 외부 링크(출처 등)는 새 탭에서. 검색엔진에는 nofollow 로 신호 누수 방지.
+    rehypePlugins: [[rehypeExternalLinks, { target: '_blank', rel: ['noopener', 'nofollow'] }]],
+  },
   integrations: [
     sitemap({
       serialize(item) {
