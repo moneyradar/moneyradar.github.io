@@ -45,6 +45,8 @@ jobs:
     needs: build
     runs-on: ubuntu-latest
     steps:
+      # functions/ (Pages Functions) 는 저장소 루트에서 읽으므로 checkout 이 필요하다
+      - uses: actions/checkout@v4
       - uses: actions/download-artifact@v4
         with:
           name: dist
