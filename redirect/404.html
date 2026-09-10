@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<title>머니레이더 — money-radar.kr 로 이동</title>
+<!-- 2026-09-10 블로그 이전: moneyradar.github.io → money-radar.kr. GitHub Pages 는 서버 301 을 못 걸어
+     404.html 에서 경로를 보존한 채 이동시킨다. 검색엔진용으로 canonical 도 함께 준다. -->
+<link rel="canonical" id="canon" href="https://money-radar.kr/">
+<meta name="robots" content="noindex">
+<script>
+  var target = 'https://money-radar.kr' + location.pathname + location.search + location.hash;
+  document.getElementById('canon').setAttribute('href', target);
+  location.replace(target);
+</script>
+<meta http-equiv="refresh" content="0; url=https://money-radar.kr/">
+</head>
+<body>
+<p>머니레이더 블로그가 <a href="https://money-radar.kr/">money-radar.kr</a> 로 이전했습니다. 자동으로 이동하지 않으면 링크를 눌러 주세요.</p>
+</body>
+</html>

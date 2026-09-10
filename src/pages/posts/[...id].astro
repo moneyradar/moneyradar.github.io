@@ -8,7 +8,7 @@ export async function getStaticPaths() {
 }
 const { post } = Astro.props;
 const { Content } = await render(post);
-const url = `https://moneyradar.github.io/posts/${post.id}/`;
+const url = `https://money-radar.kr/posts/${post.id}/`;
 const fmt = post.data.date.toLocaleDateString('ko-KR', {
   year: 'numeric', month: 'long', day: 'numeric', timeZone: 'Asia/Seoul',
 });
@@ -23,8 +23,8 @@ const jsonLd = [
     dateModified: post.data.date.toISOString(),
     inLanguage: 'ko',
     mainEntityOfPage: { '@type': 'WebPage', '@id': url },
-    author: { '@type': 'Organization', name: '머니레이더', url: 'https://moneyradar.github.io/' },
-    publisher: { '@id': 'https://moneyradar.github.io/#org' },
+    author: { '@type': 'Organization', name: '머니레이더', url: 'https://money-radar.kr/' },
+    publisher: { '@id': 'https://money-radar.kr/#org' },
     articleSection: post.data.category,
     keywords: post.data.tags.join(', '),
     ...(post.data.youtube && {
@@ -42,8 +42,8 @@ const jsonLd = [
     '@context': 'https://schema.org',
     '@type': 'BreadcrumbList',
     itemListElement: [
-      { '@type': 'ListItem', position: 1, name: '홈', item: 'https://moneyradar.github.io/' },
-      { '@type': 'ListItem', position: 2, name: post.data.category, item: 'https://moneyradar.github.io/' },
+      { '@type': 'ListItem', position: 1, name: '홈', item: 'https://money-radar.kr/' },
+      { '@type': 'ListItem', position: 2, name: post.data.category, item: 'https://money-radar.kr/' },
       { '@type': 'ListItem', position: 3, name: post.data.title, item: url },
     ],
   },
