@@ -35,6 +35,8 @@ jobs:
           name: dist
           path: dist
           retention-days: 1
+      # 글마다 200 응답 리다이렉트 페이지 생성 (404.html 은 미생성 경로용 안전망)
+      - run: node scripts/make-redirects.mjs
       - uses: actions/upload-pages-artifact@v3
         with:
           path: redirect
