@@ -1,7 +1,7 @@
 ---
 title: "AMD 상승과 뉴욕 약세, 오늘 국장 판단 축"
 description: "뉴욕 3대 지수 하락 속 AMD만 강세였다. 전일 급등한 코스피의 오늘 확인 지점을 정리한다."
-date: 2026-09-08
+date: 2026-09-08T06:23:00+09:00
 category: 시황
 tags: ["AMD","SK하이닉스","코스피","나스닥","테슬라"]
 youtube: "uy92VEIjQXg"

@@ -1,7 +1,7 @@
 ---
 title: "AMD 급등, 오늘 국장 AI 칩 수급 판단 축"
 description: "나스닥 하락 속 AMD가 5.90% 급등했습니다. 오늘 국내 증시는 AI 칩 수급 지속 여부가 핵심입니다."
-date: 2026-09-09
+date: 2026-09-09T06:23:00+09:00
 category: 시황
 tags: ["AMD","AI반도체","나스닥","코스피","시황"]
 youtube: "n5atJD9NfVE"

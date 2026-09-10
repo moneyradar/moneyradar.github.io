@@ -5,8 +5,12 @@ import Base from '../layouts/Base.astro';
 const posts = (await getCollection('posts')).sort(
   (a, b) => b.data.date.valueOf() - a.data.date.valueOf()
 );
+// 날짜+시각 — 같은 날 아침 시황·저녁 특징주가 발행 순서대로 보이게 (frontmatter date 는 분 단위 KST)
 const fmt = (d: Date) =>
-  d.toLocaleDateString('ko-KR', { year: 'numeric', month: '2-digit', day: '2-digit', timeZone: 'Asia/Seoul' });
+  d.toLocaleString('ko-KR', {
+    year: 'numeric', month: '2-digit', day: '2-digit', hour: '2-digit', minute: '2-digit',
+    hour12: false, timeZone: 'Asia/Seoul',
+  });
 
 const jsonLd = [
   {
@@ -56,10 +60,17 @@ const jsonLd = [
   <ul class="postlist">
     {posts.map((p) => (
       <li>
-        <span class="date">{fmt(p.data.date)}</span>
-        <span class="chip">{p.data.category}</span>
-        <a class="t" href={`/posts/${p.id}/`}>{p.data.title}</a>
-        <p class="d">{p.data.description}</p>
+        <div class="body">
+          <span class="date">{fmt(p.data.date)}</span>
+          <span class="chip">{p.data.category}</span>
+          <a class="t" href={`/posts/${p.id}/`}>{p.data.title}</a>
+          <p class="d">{p.data.description}</p>
+        </div>
+        {p.data.image && (
+          <a class="thumb" href={`/posts/${p.id}/`} aria-hidden="true" tabindex="-1">
+            <img src={p.data.image.src} alt="" loading="lazy" width="120" height="120" />
+          </a>
+        )}
       </li>
     ))}
   </ul>
