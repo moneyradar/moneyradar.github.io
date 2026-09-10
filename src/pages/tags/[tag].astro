@@ -42,6 +42,7 @@ const jsonLd = [
   description={`${tag} 관련 글 ${posts.length}편. 최근 ${latest?.data.date.toLocaleDateString('ko-KR', { timeZone: 'Asia/Seoul' })} 업데이트. 시황·특징주·공모주 관점에서 ${tag}의 흐름과 확인 포인트를 정리합니다.`}
   jsonLd={jsonLd}
 >
+  <nav style="font-size:0.82rem; margin-bottom:10px;"><a href="/tags/" style="color:var(--ink-soft); text-decoration:none;">← 태그 모음</a></nav>
   <div class="hero">
     <h1>{tag}</h1>
     <p>관련 글 {posts.length}편 · 최신순</p>

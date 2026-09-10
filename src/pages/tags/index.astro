@@ -1,0 +1,51 @@
+---
+// 태그 모음 — 종목·키워드별 글 수를 한눈에 보고 골라 들어가는 허브의 허브.
+// 글 2편 이상인 태그만 페이지가 있으므로 그것만 보여준다. 글 수 내림차순, 같으면 가나다.
+import { getCollection } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+
+const posts = await getCollection('posts');
+const byTag = new Map<string, { count: number; latest: Date }>();
+for (const p of posts) {
+  for (const t of p.data.tags) {
+    const cur = byTag.get(t);
+    byTag.set(t, { count: (cur?.count ?? 0) + 1, latest: cur && cur.latest > p.data.date ? cur.latest : p.data.date });
+  }
+}
+const tags = [...byTag.entries()]
+  .filter(([, v]) => v.count >= 2)
+  .sort((a, b) => b[1].count - a[1].count || a[0].localeCompare(b[0], 'ko'));
+const fmt = (d: Date) => d.toLocaleDateString('ko-KR', { month: '2-digit', day: '2-digit', timeZone: 'Asia/Seoul' });
+
+const jsonLd = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'CollectionPage',
+    name: '태그 모음 — 머니레이더',
+    url: 'https://money-radar.kr/tags/',
+    inLanguage: 'ko',
+    isPartOf: { '@type': 'WebSite', name: '머니레이더', url: 'https://money-radar.kr/' },
+  },
+];
+---
+<Base
+  title="종목·키워드 태그 모음 — 머니레이더"
+  description={`머니레이더가 다룬 종목과 키워드 ${tags.length}개. 태그를 고르면 관련 시황·특징주·공모주 글을 최신순으로 볼 수 있습니다.`}
+  jsonLd={jsonLd}
+>
+  <div class="hero">
+    <h1>태그 모음</h1>
+    <p>종목·키워드 {tags.length}개 · 글 수 많은 순</p>
+  </div>
+  <ul class="tagcloud">
+    {tags.map(([t, v]) => (
+      <li>
+        <a href={`/tags/${t}/`}>
+          <span class="name">#{t}</span>
+          <span class="count">{v.count}편</span>
+          <span class="latest">최근 {fmt(v.latest)}</span>
+        </a>
+      </li>
+    ))}
+  </ul>
+</Base>

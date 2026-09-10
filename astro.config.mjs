@@ -47,7 +47,8 @@ export default defineConfig({
         if (post) d = byId.get(post[1]) ?? null; // 글: 발행 시각 (발행 후 수정 없음)
         else if (tag) d = newest(byTag.get(tag[1]) ?? []); // 태그 허브: 그 태그의 최신 글
         else if (cat) d = newest(byCategory.get(cat[1]) ?? []); // 카테고리: 그 분류의 최신 글
-        else if (path === '/') d = new Date(); // 홈: 매일 새 글이 실리므로 빌드 시각
+        else if (path === '/' ) d = new Date(); // 홈: 매일 새 글이 실리므로 빌드 시각
+        else if (path === '/tags/') d = newest(posts); // 태그 모음: 전체 최신 글
         if (d) item.lastmod = d.toISOString();
         return item;
       },

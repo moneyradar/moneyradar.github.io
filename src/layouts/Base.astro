@@ -208,6 +208,13 @@ const gaCategory = article?.category ?? null;
     section.related .date { color: var(--ink-soft); font-size: 0.8rem; margin-right: 8px; font-variant-numeric: tabular-nums; }
     section.related a { text-decoration: none; font-weight: 600; }
     section.related a:hover { color: var(--gold); }
+    /* 태그 모음 — 카드형 그리드 */
+    ul.tagcloud { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 10px; }
+    ul.tagcloud a { display: flex; flex-direction: column; gap: 2px; padding: 12px 14px; border: 1px solid var(--line); border-radius: 10px; text-decoration: none; background: var(--bg-soft); }
+    ul.tagcloud a:hover { border-color: var(--gold); }
+    ul.tagcloud .name { font-weight: 700; }
+    ul.tagcloud .count { color: var(--accent); font-size: 0.82rem; }
+    ul.tagcloud .latest { color: var(--ink-soft); font-size: 0.76rem; }
     ul.postlist { list-style: none; padding: 0; margin: 0; }
     ul.postlist li { padding: 18px 0; border-bottom: 1px solid var(--line); display: flex; gap: 18px; align-items: flex-start; }
     ul.postlist .body { flex: 1 1 auto; min-width: 0; }
@@ -230,6 +237,7 @@ const gaCategory = article?.category ?? null;
       <img class="mark" src="/favicon.png" alt="머니레이더 로고" width="26" height="26" />
       <a class="brand" href="/">머니레이더</a>
       <nav>
+        <a href="/tags/">태그</a>
         <a href="/about/">소개</a>
         <a href="https://www.youtube.com/@kr.moneyradar" rel="noopener">유튜브</a>
         <a href="https://www.instagram.com/kr.moneyradar" rel="noopener">인스타그램</a>
