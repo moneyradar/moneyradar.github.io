@@ -5,8 +5,10 @@ interface Props {
   article?: { date: Date; category: string; tags?: string[] };
   jsonLd?: object[];
   ogImage?: string;
+  /** 얇은 허브 페이지(글 2편 이하 태그) — 탐색용으로 두되 색인은 막는다. */
+  noindex?: boolean;
 }
-const { title, description, article, jsonLd = [], ogImage: ogOverride } = Astro.props;
+const { title, description, article, jsonLd = [], ogImage: ogOverride, noindex = false } = Astro.props;
 const canonical = new URL(Astro.url.pathname, Astro.site);
 const ogImage = new URL(ogOverride ?? '/og-default.png', Astro.site);
 const pathname = Astro.url.pathname;
@@ -23,6 +25,7 @@ const gaCategory = article?.category ?? null;
   <title>{title}</title>
   <meta name="description" content={description} />
   <link rel="canonical" href={canonical} />
+  {noindex && <meta name="robots" content="noindex,follow" />}
   <link rel="alternate" type="application/rss+xml" title="머니레이더" href="/rss.xml" />
   <meta name="google-site-verification" content="W9pwWlnFRbm0JvWKNVbi2n3fZhOoYQvBGP5rzK9fWnA" />
   <meta name="naver-site-verification" content="710d35afe16e663e6ec6d8cde470ae786137aa81" />

@@ -10,6 +10,8 @@ export async function getStaticPaths() {
   const byTag = new Map<string, typeof posts>();
   for (const p of posts) for (const t of p.data.tags) byTag.set(t, [...(byTag.get(t) ?? []), p]);
   // 글이 2편 이상인 태그만 페이지를 만든다 — 1편짜리 태그 페이지는 얇은 중복 페이지가 된다.
+  // 2편짜리는 페이지는 만들되 noindex + 사이트맵 제외 (astro.config.mjs) — 서치콘솔 '발견됨/크롤링됨 - 색인 안 됨'
+  // 48건이 거의 전부 이런 허브였다 (2026-09-17). 3편이 되면 자동으로 색인 대상이 된다.
   return [...byTag.entries()]
     .filter(([, list]) => list.length >= 2)
     .map(([tag, list]) => ({ params: { tag }, props: { tag, posts: list } }));
@@ -38,6 +40,7 @@ const jsonLd = [
 ];
 ---
 <Base
+  noindex={posts.length < 3}
   title={`${tag} 주가·이슈 정리 — 머니레이더`}
   description={`${tag} 관련 글 ${posts.length}편. 최근 ${latest?.data.date.toLocaleDateString('ko-KR', { timeZone: 'Asia/Seoul' })} 업데이트. 시황·특징주·공모주 관점에서 ${tag}의 흐름과 확인 포인트를 정리합니다.`}
   jsonLd={jsonLd}

@@ -38,6 +38,13 @@ export default defineConfig({
   integrations: [
     sitemap({
       // 빌드된 모든 페이지가 자동 포함된다 (글·태그·카테고리·홈·소개). 여기서는 lastmod 만 보강.
+      // 글 3편 미만 태그 허브는 제외 — 페이지는 noindex 로 살아 있고, 3편이 되면 자동 편입.
+      filter(url) {
+        const path = decodeURIComponent(new URL(url).pathname);
+        const tag = path.match(/^\/tags\/([^/]+)\/?$/);
+        if (tag) return (byTag.get(tag[1]) ?? []).length >= 3;
+        return true;
+      },
       serialize(item) {
         const path = decodeURIComponent(new URL(item.url).pathname);
         const post = path.match(/^\/posts\/([^/]+)\/?$/);
