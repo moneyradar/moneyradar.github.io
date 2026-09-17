@@ -7,7 +7,7 @@ const posts = defineCollection({
     title: z.string(),
     description: z.string(),
     date: z.coerce.date(),
-    category: z.enum(['특징주', '공모주', '시황', '주간']),
+    category: z.enum(['특징주', '공모주', '시황', '주간', '종목분석']),
     tags: z.array(z.string()).default([]),
     youtube: z.string().optional(),
     image: z.object({
