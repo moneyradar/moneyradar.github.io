@@ -1,0 +1,82 @@
+---
+// 판정 기록 — 특징주·종목분석 편의 판정과 그 뒤 주가. 맞은 것과 틀린 것을 같은 표에 싣는다.
+import Base from '../layouts/Base.astro';
+import data from '../data/track-record.json';
+type Row = (typeof data.rows)[number];
+const rows = data.rows as Row[];
+const deep = rows.filter((r) => r.kind === '종목분석');
+const feat = rows.filter((r) => r.kind === '특징주');
+const scored = rows.filter((r) => r.changePct !== null);
+const avg = scored.length ? (scored.reduce((a, r) => a + (r.changePct ?? 0), 0) / scored.length).toFixed(1) : '-';
+const stanceOf = (s?: string) => s === '주도주 후보' ? 'up' : s === '거리 두기' ? 'down' : 'mid';
+const fmtPrice = (v: number | null, cur: string) => v === null ? '-' : cur === 'KRW' ? `${Math.round(v).toLocaleString('ko-KR')}원` : `$${v.toFixed(2)}`;
+const fmtPct = (v: number | null) => v === null ? '-' : `${v > 0 ? '+' : ''}${v.toFixed(1)}%`;
+const updated = new Date(data.updatedAt).toLocaleString('ko-KR', { timeZone: 'Asia/Seoul', dateStyle: 'medium', timeStyle: 'short' });
+const jsonLd = [{ '@context': 'https://schema.org', '@type': 'Dataset', name: '머니레이더 판정 기록', description: '머니레이더가 특징주·종목분석에서 내린 판정과 이후 주가 변동 기록', url: 'https://money-radar.kr/track-record/', dateModified: data.updatedAt }];
+---
+<Base title="판정 기록 — 머니레이더" description={`머니레이더가 지금까지 내린 종목 판정 ${rows.length}건과 그 뒤 주가 변동을 그대로 기록합니다. 맞은 판정과 틀린 판정을 모두 싣습니다.`} jsonLd={jsonLd}>
+  <article>
+    <h1>판정 기록</h1>
+    <p>머니레이더는 매 편 "채널의 읽기"로 기울어진 판단을 내립니다. 이 페이지는 그 판정이 그 뒤 주가로 어떻게 됐는지를 자동으로 집계합니다. 맞은 것과 틀린 것을 고르지 않고 전부 싣습니다. 현재가는 수집 시점 기준이며, 판정은 매수·매도 권유가 아닙니다.</p>
+    <div class="stats">
+      <div><b>{rows.length}</b><span>판정 수</span></div>
+      <div><b>{deep.length}</b><span>종목분석</span></div>
+      <div><b>{feat.length}</b><span>특징주</span></div>
+      <div><b>{avg}%</b><span>판정 뒤 평균 등락</span></div>
+    </div>
+    <p class="meta">최근 갱신 {updated} (KST) · 시세: Yahoo Finance</p>
+
+    <h2>종목분석 — 주도주 자격 판정</h2>
+    <div class="tw"><table>
+      <thead><tr><th>날짜</th><th>종목</th><th>판정</th><th>당시 종가</th><th>현재가</th><th>등락</th><th>글</th></tr></thead>
+      <tbody>
+        {deep.map((r) => (
+          <tr>
+            <td>{r.date}</td>
+            <td>{r.name}</td>
+            <td><span class={`st ${stanceOf(r.stance)}`}>{r.stance ?? '-'}</span><div class="v">{r.verdict}</div></td>
+            <td>{fmtPrice(r.priceThen, r.currency)}</td>
+            <td>{fmtPrice(r.priceNow, r.currency)}</td>
+            <td class={r.changePct !== null ? (r.changePct >= 0 ? 'pos' : 'neg') : ''}>{fmtPct(r.changePct)}</td>
+            <td>{r.slug ? <a href={`/posts/${r.slug}/`}>보기</a> : '-'}</td>
+          </tr>
+        ))}
+        {deep.length === 0 && <tr><td colspan="7">아직 기록이 없습니다.</td></tr>}
+      </tbody>
+    </table></div>
+
+    <h2>특징주 — 그날의 읽기</h2>
+    <div class="tw"><table>
+      <thead><tr><th>날짜</th><th>종목</th><th>읽기</th><th>당시 종가</th><th>현재가</th><th>등락</th><th>글</th></tr></thead>
+      <tbody>
+        {feat.map((r) => (
+          <tr>
+            <td>{r.date}</td>
+            <td>{r.name}</td>
+            <td><div class="v">{r.verdict}</div></td>
+            <td>{fmtPrice(r.priceThen, r.currency)}</td>
+            <td>{fmtPrice(r.priceNow, r.currency)}</td>
+            <td class={r.changePct !== null ? (r.changePct >= 0 ? 'pos' : 'neg') : ''}>{fmtPct(r.changePct)}</td>
+            <td>{r.slug ? <a href={`/posts/${r.slug}/`}>보기</a> : '-'}</td>
+          </tr>
+        ))}
+      </tbody>
+    </table></div>
+    <p class="meta">특징주의 읽기는 방향 예측이 아니라 "이 급등·급락을 무엇으로 봐야 하는가"에 대한 해석입니다. 등락은 참고용입니다. 이 페이지의 모든 내용은 투자 권유가 아니며, 투자 판단과 책임은 본인에게 있습니다.</p>
+  </article>
+</Base>
+<style>
+  .stats { display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; margin: 18px 0 6px; }
+  .stats div { background: var(--card, #f4f4f2); border-radius: 10px; padding: 14px 10px; text-align: center; }
+  .stats b { display: block; font-size: 1.5rem; }
+  .stats span { font-size: 0.8rem; color: var(--ink-soft); }
+  .meta { font-size: 0.82rem; color: var(--ink-soft); }
+  .tw { overflow-x: auto; }
+  table { width: 100%; border-collapse: collapse; font-size: 0.86rem; }
+  th, td { padding: 8px 8px; border-bottom: 1px solid rgba(128,128,128,0.25); vertical-align: top; text-align: left; white-space: nowrap; }
+  td .v { white-space: normal; min-width: 260px; max-width: 420px; color: var(--ink-soft); font-size: 0.8rem; margin-top: 4px; }
+  .st { display: inline-block; padding: 2px 8px; border-radius: 999px; font-size: 0.78rem; font-weight: 700; }
+  .st.up { background: #e9f7ee; color: #1b7f3b; } .st.down { background: #fdeaea; color: #b42318; } .st.mid { background: #f1f1f1; color: #555; }
+  .pos { color: #1b7f3b; font-weight: 700; } .neg { color: #b42318; font-weight: 700; }
+  @media (max-width: 640px) { .stats { grid-template-columns: repeat(2, 1fr); } }
+</style>
